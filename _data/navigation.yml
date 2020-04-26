@@ -1,9 +1,5 @@
-- title: Start
+- title: Inicio
   url: "/"
-  side: left
-
-- title: Getting Started
-  url: "/getting-started/"
   side: left
 
 - title: "Templates"
@@ -66,10 +62,15 @@
   - title: "Blog Archive"
     url: "/blog/archive/"
 
-- title: "Search"
+- title: Censo
+  url: "/censo/"
+  side: left
+
+  
+- title: "Buscar"
   url: "/search/"
   side: right
 
-- title: "Contact"
+- title: "Contacto"
   url: "/contact/"
   side: right

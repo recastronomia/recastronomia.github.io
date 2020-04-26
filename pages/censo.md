@@ -1,13 +1,14 @@
 ---
 layout: page
 show_meta: false
-title: "Getting Started"
-subheadline: "A Step-by-Step Guide"
-teaser: "This step-by-step guide helps you to customize Feeling Responsive to your needs."
+title: "Censo RECA"
+subheadline: "Quienes somos y donde estamos"
+teaser: "Base de datos interna para poder idenficar a los miembros de la RECA"
 header:
-   image_fullwidth: "header_homepage_13.jpg"
-permalink: "/getting-started/"
+   image_fullwidth: "header.png"
+permalink: "/censo/"
 ---
+
 1. Open `_config.yml` and work it through, it's well documented
 1. Add your own `logo.png` to `/assets/img/`.
 1. Open `_data/socialmedia.yml` and add your own social media links.
