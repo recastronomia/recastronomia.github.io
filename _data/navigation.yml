@@ -2,7 +2,7 @@
   url: "/"
   side: left
 
-- title: "Templates"
+- title: "Sobre nosotros"
   url: "/design/"
   side: left
   dropdown:
@@ -27,7 +27,7 @@
   - title: "Portfolio"
     url: "/design/portfolio/"
 
-- title: "Header Styles"
+- title: "Recursos"
   url: "/headers/"
   side: left
   dropdown:
@@ -46,21 +46,12 @@
   - title: "No Header but Image"
     url: "/design/no-header-but-image/"
 
-- title: Documentation
-  url: "/documentation/"
-  side: left
-  dropdown:
-  - title: "Changelog"
-    url: "/changelog/"
-  - title: "Roadmap"
-    url: "/roadmap/"
-
-- title: Blog
-  url: "/blog/"
-  side: left
-  dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
+# - title: Blog
+#   url: "/blog/"
+#   side: left
+#   dropdown:
+#   - title: "Blog Archive"
+#     url: "/blog/archive/"
 
 - title: Censo
   url: "/censo/"
