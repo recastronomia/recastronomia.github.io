@@ -10,10 +10,10 @@ tags:
     - pattern
     - header
 header:
-    image: header_unsplash_2-970x.jpg
+    image: header_typewriter.jpg
     pattern: pattern_concrete.jpg
-    caption: This is a caption for the header image with link
-    caption_url: https://unsplash.com/
+    caption: Image by Florian Klauer
+    caption_url: "http://florianklauer.de/"
 ---
 It's so easy to do. Just define in front matter an image and a pattern image. Instead of a pattern you can also use a color. Have a look at the [example with a background color]({{ site.url }}{{ site.baseurl }}/design/header-image-color/).
 <!--more-->
@@ -22,10 +22,10 @@ It's so easy to do. Just define in front matter an image and a pattern image. In
 
 ~~~
 header:
-    image:  "header_unsplash_2-970x.jpg"
-    pattern:  "pattern_concrete.jpg"
-    caption: This is a caption for the header image with link
-    caption_url: https://unsplash.com/
+    image: header_typewriter.jpg
+    pattern: pattern_concrete.jpg
+    caption: Image by Florian Klauer
+    caption_url: "http://florianklauer.de/"
 ~~~
 
 

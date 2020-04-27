@@ -10,10 +10,10 @@ tags:
     - background color
     - header
 header:
-    image: header_unsplash_2-970x.jpg
+    image_fullwidth: "header_typewriter.jpg"
+    caption: Image by Florian Klauer
+    caption_url: "http://florianklauer.de/"
     background-color:  "#304558"
-    caption: This is a caption for the header image with link
-    caption_url: https://unsplash.com/
 ---
 It's so easy to do. Just define in front matter an image and a background color. Instead of a color you can also use a pattern image. Have a look at the [example with a background pattern]({{ site.url }}{{ site.baseurl }}/design/header-image-pattern/).
 <!--more-->
@@ -25,10 +25,10 @@ It's so easy to do. Just define in front matter an image and a background color.
 
 ~~~
 header:
-    image: "header_unsplash_2-970x.jpg"
-    background-color: "#fabb00"
-    caption: This is a caption for the header image with link
-    caption_url: https://unsplash.com/
+    image_fullwidth: "header_typewriter.jpg"
+    caption: Image by Florian Klauer
+    caption_url: "http://florianklauer.de/"
+    background-color:  "#304558"
 ~~~
 
 

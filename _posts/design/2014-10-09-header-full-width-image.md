@@ -12,9 +12,9 @@ tags:
 image:
    thumb: "unsplash_brooklyn-bridge-thumb.jpg"
 header:
-    image_fullwidth: "unsplash_brooklyn-bridge_header.jpg"
-    caption: This is a caption for the header image with link
-    caption_url: https://unsplash.com/
+    image_fullwidth: "header_typewriter.jpg"
+    caption: Image by Florian Klauer
+    caption_url: "http://florianklauer.de/"
 ---
 It's so easy to do. Just define in front matter your image.
 <!--more-->
@@ -23,9 +23,9 @@ It's so easy to do. Just define in front matter your image.
 
 ~~~
 header:
-    image_fullwidth: "unsplash_brooklyn-bridge_header.jpg"
-    caption: This is a caption for the header image with link
-    caption_url: https://unsplash.com/
+    image_fullwidth: "header_typewriter.jpg"
+    caption: Image by Florian Klauer
+    caption_url: "http://florianklauer.de/"
 ~~~
 
 
