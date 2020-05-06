@@ -1,7 +1,7 @@
 ---
 layout: page
 subheadline: Para todos los niveles educativos
-title:  "Programas Astronómicos"
+title:  "Programas y Escuelas"
 breadcrumb: true
 categories:
     - recursos

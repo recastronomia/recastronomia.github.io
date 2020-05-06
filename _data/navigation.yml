@@ -2,10 +2,12 @@
   url: "/"
   side: left
 
-- title: "Sobre nosotros"
+- title: "Información"
   url: "/info/"
   side: left
   dropdown:
+  - title: "Sobre nosotros"
+    url: "/info/nosotros/"
   - title: "Misión"
     url: "/info/mision/"
   - title: "Visión"
