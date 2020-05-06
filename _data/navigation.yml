@@ -19,6 +19,8 @@
   dropdown:
   - title: "Programas"
     url: "/recursos/programas/"
+  - title: "Ofertas"
+    url: "/recursos/ofertas/"
   - title: "Vídeos"
     url: "/recursos/videos/"
   - title: "Eventos"
