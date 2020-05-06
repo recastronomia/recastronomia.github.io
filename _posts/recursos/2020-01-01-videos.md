@@ -1,0 +1,13 @@
+---
+layout: page
+subheadline: Lo que hacemos para alcanzar nuestro propósito 
+title:  "Misión"
+breadcrumb: true
+categories:
+    - recursos
+header:
+   image_fullwidth: "header.png"
+
+---
+
+La Red de Estudiantes Colombianos de Astronomía, RECA, es una asociación que busca crear y mantener vínculos fuertes entre los estudiantes de astronomía en Colombia; con el fin de generar un espacio que permita el intercambio de ideas y experiencias significativas entre sus miembros, donde imperen la colaboración y el apoyo mutuo para la realización de diversos proyectos o actividades académicas, y desplazamiento de los estudiantes por toda Colombia.

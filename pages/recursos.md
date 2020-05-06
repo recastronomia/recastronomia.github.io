@@ -1,13 +1,11 @@
 ---
 layout: page
-title: "Sobre nosotros"
-subheadline: "¿Quienes somos?"
-permalink: "/info/"
+title: "Recursos"
+subheadline: "Lo que hemos reunido hasta el momento"
+permalink: "/recursos/"
 header:
     image_fullwidth: "header.png"
 ---
-
-RECA es una asociación que busca crear y mantener vínculos fuertes entre los estudiantes de astronomía en Colombia
 
 Nacimos el En el Marco del III Congreso Colombiano de Astronomía (COCOA) durante el Foro de Estudiantes se toma la decisión de crear una red para estudiantes colombianos interesados en las diferentes áreas de la astronomía. ([Acta][1]).
 
