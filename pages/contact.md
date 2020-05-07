@@ -7,17 +7,16 @@ header:
 permalink: "/contacto/"
 ---
 
-Nuestro correo es: [RECA.Astronomia@gmail.com](mailto:reca.astronomia@gmail.com) :email:
+Nuestro correo es: [RECA.Astronomia@gmail.com][1] :email:
 
-Igual estamos muy pendientes en nuestras redes sociales, buscanos como **RECAstronomia**:
+¡Igual estamos super pendientes en nuestras redes sociales!
 
-* [Twitter][2] :star:
-* [Facebook][3] :stars:
-* [YouTube][4] :star2:
-* [Slack][5] :sparkles:
-* [GitHub][6] :dizzy:
+Buscanos como **RECAstronomia**
 
- [1]: {{ site.url }}{{ site.baseurl }}/docs/ActaRECA.pdf
+| [![Twitter]({{ site.urlimg }}redes/twitter.png)][2] | [![Facebook]({{ site.urlimg }}redes/facebook.png)][3] | [![YouTube]({{ site.urlimg }}redes/youtube.png)][4] |
+| [![GitHub]({{ site.urlimg }}redes/github.png)][6] | [![Slack]({{ site.urlimg }}redes/slack.png)][5] | [![Email]({{ site.urlimg }}redes/email.png)][1] |
+
+ [1]: mailto:reca.astronomia@gmail.com
  [2]: https://twitter.com/RECAstronomia
  [3]: https://www.facebook.com/RECAstronomia
  [4]: https://www.youtube.com/user/RECAstronomia
