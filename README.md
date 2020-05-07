@@ -10,6 +10,10 @@ bundle update --bundler
 bundle exec jekyll serve
 ```
 
-## Creditos del template
+## Emojis
+
+Acá hay una lista de los emojis en formato markdown: [Complete list of github markdown emoji markup ](https://gist.github.com/rxaviers/7360908) :fire:
+
+## Créditos del template
 
 [Phlow - Feeling Responsive](https://github.com/Phlow/feeling-responsive)

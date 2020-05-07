@@ -41,9 +41,9 @@
 
   
 - title: "Buscar"
-  url: "/search/"
+  url: "/buscar/"
   side: right
 
 - title: "Contacto"
-  url: "/contact/"
+  url: "/contacto/"
   side: right

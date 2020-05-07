@@ -1,15 +1,25 @@
 ---
 layout: page
-title: "Contact"
-meta_title: "Contact and use our contact form"
-subheadline: "Wufoo-powered contact forms"
-teaser: "Get in touch with me? Use the contact form."
+title: "Contacto"
+subheadline: "Cuentanos que piensas"
 header:
    image_fullwidth: "header.png"
-permalink: "/contact/"
+permalink: "/contacto/"
 ---
 
-If you need a fabulous contact form for your website, I suggest you use [Wufoo][1]. You can use three forms for free, you get no spam and if you get more than 100 entries you have to pay.
+Nuestro correo es: [RECA.Astronomia@gmail.com](mailto:reca.astronomia@gmail.com) :email:
 
+Igual estamos muy pendientes en nuestras redes sociales, buscanos como **RECAstronomia**:
 
- [1]: http://www.wufoo.com/
+* [Twitter][2] :star:
+* [Facebook][3] :stars:
+* [YouTube][4] :star2:
+* [Slack][5] :sparkles:
+* [GitHub][6] :dizzy:
+
+ [1]: {{ site.url }}{{ site.baseurl }}/docs/ActaRECA.pdf
+ [2]: https://twitter.com/RECAstronomia
+ [3]: https://www.facebook.com/RECAstronomia
+ [4]: https://www.youtube.com/user/RECAstronomia
+ [5]: https://recastronomia.slack.com/
+ [6]: https://github.com/recastronomia/
