@@ -22,6 +22,20 @@ permalink: "/design/"
 
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 
+## Initial configuration
+
+1. Open `_config.yml` and work it through, it's well documented
+1. Add your own `logo.png` to `/assets/img/`.
+1. Open `_data/socialmedia.yml` and add your own social media links.
+1. Open `_data/navigation.yml` and customize your navigation.
+1. Open `_data/language.yml` and translate the theme if necessary.
+1. Open `_data/services.yml` and customize links in the footer.
+1. Open `_data/network.yml` and customize links in the footer.
+1. Open `_data/authors.yml` and edit author information and set default author in `config.yml`.
+1. [Read the documentation][1] to check out all features of *Feeling Responsive*.
+1. Make it yours and add your own content.
+
+
 ## Edit Navigation   {#edit-navigation}
 
 To customize the navigation of *Feeling Responsive*, you have to open the [YAML](https://jekyllrb.com/docs/datafiles/)-file `_data/navigation.yml`. Edit the data and adjust it to your own needs.
