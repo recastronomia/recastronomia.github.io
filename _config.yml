@@ -50,6 +50,10 @@ plugins:
     - jekyll-gist
     - jekyll-paginate
 
+# Gems
+gems: 
+  - jemoji
+
 
 #       ____              _             __  _
 #      / __ \____ _____ _(_)___  ____ _/ /_(_)___  ____
