@@ -6,7 +6,7 @@ teaser: "The full-width page format gives you all the space you need to show you
 categories:
     - design
 header:
-    image_fullwidth: "header_typewriter.jpg"
+    image_fullwidth: "typewriter.jpg"
 ---
 *Feeling Responsive* is built on Foundation. And of course, we make use of the wonderful grid system and so can you. Find out more about [constructing  beautiful layouts][1] in the foundation documentation.
 <!--more-->
