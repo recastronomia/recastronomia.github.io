@@ -10,9 +10,9 @@ tags:
     - background color
     - header
 image:
-   thumb: "unsplash_brooklyn-bridge-thumb.jpg"
+   thumb: "typewriter-thumb.jpg"
 header:
-    image_fullwidth: "header_typewriter.jpg"
+    image_fullwidth: "typewriter.jpg"
     caption: Image by Florian Klauer
     caption_url: "http://florianklauer.de/"
 ---
@@ -23,7 +23,7 @@ It's so easy to do. Just define in front matter your image.
 
 ~~~
 header:
-    image_fullwidth: "header_typewriter.jpg"
+    image_fullwidth: "typewriter.jpg"
     caption: Image by Florian Klauer
     caption_url: "http://florianklauer.de/"
 ~~~

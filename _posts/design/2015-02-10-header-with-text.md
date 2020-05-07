@@ -13,7 +13,7 @@ header:
     title: header with text
     background-color: "#EFC94C;"
 #    pattern: pattern_concrete.jpg
-    image_fullwidth: "header_typewriter.jpg"
+    image_fullwidth: "typewriter.jpg"
     caption: Image by Florian Klauer
     caption_url: "http://florianklauer.de/"
 ---
@@ -24,7 +24,7 @@ header:
 ~~~
 header:
     title: header with text
-    image_fullwidth: unsplash_brooklyn-bridge_header.jpg
+    image_fullwidth: typewriter.jpg
     caption: This is a caption for the header image with link
     caption_url: https://unsplash.com/
 ~~~

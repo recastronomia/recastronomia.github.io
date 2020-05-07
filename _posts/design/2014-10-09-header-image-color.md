@@ -10,7 +10,7 @@ tags:
     - background color
     - header
 header:
-    image_fullwidth: "header_typewriter.jpg"
+    image_fullwidth: "typewriter.jpg"
     caption: Image by Florian Klauer
     caption_url: "http://florianklauer.de/"
     background-color:  "#304558"
@@ -25,7 +25,7 @@ It's so easy to do. Just define in front matter an image and a background color.
 
 ~~~
 header:
-    image_fullwidth: "header_typewriter.jpg"
+    image_fullwidth: "typewriter.jpg"
     caption: Image by Florian Klauer
     caption_url: "http://florianklauer.de/"
     background-color:  "#304558"

@@ -10,7 +10,7 @@ tags:
     - pattern
     - header
 header:
-    image: header_typewriter.jpg
+    image: typewriter.jpg
     pattern: pattern_concrete.jpg
     caption: Image by Florian Klauer
     caption_url: "http://florianklauer.de/"
@@ -22,7 +22,7 @@ It's so easy to do. Just define in front matter an image and a pattern image. In
 
 ~~~
 header:
-    image: header_typewriter.jpg
+    image: typewriter.jpg
     pattern: pattern_concrete.jpg
     caption: Image by Florian Klauer
     caption_url: "http://florianklauer.de/"
