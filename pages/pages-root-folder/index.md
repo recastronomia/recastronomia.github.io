@@ -10,7 +10,7 @@ header:
 widget1:
   title: "¿Quienes somos?"
   url: '/info/nosotros'
-  image: dia_reca.jpg
+  image: nosotros.jpg
   text: 'RECA es una asociación que busca crear y mantener vínculos fuertes entre los estudiantes de astronomía de Colombia.'
 widget2:
   title: "¿Quién eres tú?"
