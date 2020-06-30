@@ -37,9 +37,6 @@ header:
 | [Advancing Theoretical Astrophysics](https://collectiveastronomy.github.io/advancingtheoastro/)     | Verano          | Holanda              |
 
 
-https://collectiveastronomy.github.io/advancingtheoastro/
-
-
 ### Doctorado / PostDoc
 
 | Nombre                                                                                     | Fecha              | Lugar          |
