@@ -34,6 +34,10 @@ header:
 | [COSPAR Capacity Building Workshops](https://cosparhq.cnes.fr/events/cb-workshops)                                                   | Otoño              | Diferentes lugares  |
 | [Verano Científico en el Observatorio Astronómico Nacional](http://www.astrosen.unam.mx/verano/)     | Verano           | México              |
 | [Escuela de Verano en Astrofísica](https://www.irya.unam.mx/verano/)     | Verano          | México              |
+| [Advancing Theoretical Astrophysics](https://collectiveastronomy.github.io/advancingtheoastro/)     | Verano          | Holanda              |
+
+
+https://collectiveastronomy.github.io/advancingtheoastro/
 
 
 ### Doctorado / PostDoc

@@ -34,6 +34,10 @@
   dropdown:
   - title: "Preguntas frecuentes"
     url: "/mentores/preguntas/"
+  - title: "Quiero ser mentor"
+    url: "/mentores/mentor/"
+  - title: "Quiero ser mentorado"
+    url: "/mentores/mentorado/"
 
 # - title: Blog
 #   url: "/blog/"
