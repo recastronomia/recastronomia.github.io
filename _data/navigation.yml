@@ -28,6 +28,13 @@
   - title: "Noticias"
     url: "/recursos/noticias/"
 
+- title: "Mentores"
+  url: "/mentores/"
+  side: left
+  dropdown:
+  - title: "Preguntas frecuentes"
+    url: "/mentores/preguntas/"
+
 # - title: Blog
 #   url: "/blog/"
 #   side: left

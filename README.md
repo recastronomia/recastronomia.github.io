@@ -6,6 +6,7 @@ Instalar ruby (recomendado por medio de rvm o rbenv). Luego ejecutar:
 
 ```
 gem install jekyll bundler
+bundle install
 bundle update --bundler
 bundle exec jekyll serve
 ```
