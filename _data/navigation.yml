@@ -32,6 +32,8 @@
   url: "/mentores/"
   side: left
   dropdown:
+  - title: "Sobre el programa"
+    url: "/mentores/programa/"  
   - title: "Preguntas frecuentes"
     url: "/mentores/preguntas/"
   - title: "Quiero ser mentor"
