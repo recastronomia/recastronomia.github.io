@@ -9,32 +9,32 @@ header:
 
 ---
 
-En este espacio ponemos a tu disposición un FAQ para que entre estudiantes podamos ayudarnos a guíar nuestras carreras. Ya muchos hemos pasado por etapas que otros no, así que queremos solucionar la mayor cantidad de preguntas posibles. 
+En este espacio ponemos a tu disposición una serie de paneles en las que discutimos los temas y preguntas más frecuentes. Ya muchos hemos pasado por etapas que otros no, así que en estos vídeos contamos esas experiencias y aprendizajes para las nuevas generaciones:
 
-1. ¿Cómo lidiar con las dudas constantes de si el trabajo que realizo es suficientemente "bueno" o si el avance es "lento"?
+1. Presentación del programa de mentores
 
-2. ¿Cómo se reconoce la comunidad latina en astronomía en otros países?
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9_ioOEwoKUc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-3. ¿Cómo elegir a quienes dan cartas de recomendación y cómo solicitar su apoyo?
+2. Sobre las aplicaciones en general
 
-4. ¿Que consejos me darías para hacer parte de la academia en astronomía si vengo de ingeniería? 
+PENDIENTE
 
-5. ¿Que hacer si tengo problemas con mi asesor de tesis?
+3. Documentos en detalle
 
-6. Me interesa la industría, ¿que consejos me darían para tener la opción de salirme de la academia?
+PENDIENTE
 
-7. ¿Que cursos me recomiendas tomar para tener un perfil más completo a la hora de postularme a posgrado?
+4. Becas
 
-8. ¿Como es la vida de estudiante en otro país?
+PENDIENTE
 
-9. ¿Que consejos me darían para escribir cartas de motivación?
+5. ¿Cómo iniciarse en la investigación?
 
-10. ¿Que consejos me darían para hacer mi CV? 
+PENDIENTE
 
-11. ¿Que hago si mi pregunta no esta en la lista y creo que le puede aplicar a más personas? 
+6. Sobre la vida de estudiante de posgrado
 
-Ponemos a tu disposición este [padlet anonimo][1] para que nos ayudes a sumar más conocimiento colectivo.
+PENDIENTE
 
-<div class="padlet-embed" style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><p style="padding:0;margin:0"><iframe src="https://padlet.com/embed/613a1m7bytzleycr" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></p><div style="padding:8px;text-align:right;margin:0;"><a href="https://padlet.com?ref=embed" style="padding:0;margin:0;border:none;display:block;line-height:1;height:16px" target="_blank"><img src="https://padlet.net/embeds/made_with_padlet.png" width="86" height="16" style="padding:0;margin:0;background:none;border:none;display:inline;box-shadow:none" alt="Made with Padlet"></a></div></div>
+7. Vida después del PhD
 
- [1]: https://padlet.com/recaastronomia/mentores
+PENDIENTE
