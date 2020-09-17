@@ -11,7 +11,6 @@ header:
 
 En este espacio ponemos a tu disposición una serie de paneles en las que discutimos los temas y preguntas más frecuentes. Ya muchos hemos pasado por etapas que otros no, así que en estos vídeos contamos esas experiencias y aprendizajes para las nuevas generaciones:
 
-<center>
 |                  Panel                  |     Cuando    |
 |:---------------------------------------:|:-------------:|
 | Presentación del programa               | Septiembre 4  |
@@ -22,7 +21,6 @@ En este espacio ponemos a tu disposición una serie de paneles en las que discut
 | Sobre la vida de estudiante de posgrado | Octubre 23    |
 | Vida fuera de la academia               | Noviembre 6   |
 | Ética en la investigación               | Noviembre 20  |
-</center>
 
 ### 1. Presentación del programa de mentores
 
@@ -31,6 +29,8 @@ Video:
 <div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.1972%;">
 <iframe src="https://www.youtube.com/embed/9_ioOEwoKUc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;"  allowfullscreen></iframe>
 </div>
+
+<br>
 
 Diapositivas:
 
@@ -43,6 +43,8 @@ Video:
 <div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.1972%;">
 <iframe src="https://www.youtube.com/embed/PEumYXDWgb8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;"  allowfullscreen></iframe>
 </div>
+
+<br>
 
 Diapositivas:
 
