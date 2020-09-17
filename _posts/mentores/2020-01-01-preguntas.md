@@ -24,29 +24,43 @@ En este espacio ponemos a tu disposición una serie de paneles en las que discut
 
 ### 1. Presentación del programa de mentores
 
-Video:
+<br>
+
+En este primer panel discutiremos sobre que se trata el programa de mentores de RECA:
+* ¿Quienes somos?
+* Motivación del programa
+* Formato del programa: paneles grupales + tutoría 1 a 1 
+* Calendario de paneles 
+* Resumen de las postulaciones
+* Proceso de asignación de mentores
+* Código de conducta
+
+A continuación el video y las diapositivas:
 
 <div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.1972%;">
 <iframe src="https://www.youtube.com/embed/9_ioOEwoKUc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;"  allowfullscreen></iframe>
 </div>
 
-<br>
-
-Diapositivas:
-
 <div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.1972%;"><iframe src="https://speakerdeck.com/player/84e9a177d67948a0a7c908282cc60f76" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no" allow="encrypted-media"></iframe></div>
 
 ### 2. Sobre las aplicaciones en general
 
-Video:
+<br>
+
+En este segundo panel discutiremos sobre el proceso general de postulaciones a posgrado:
+* ¿Está seguro?
+* Tres consejos importantes
+* Sistema actual de postgrado (astronomía)
+* ¿Donde puedo hacer el doctorado?
+* Doctorados en Colombia
+* Documentos y requisitos para aplicar a doctorados
+* Línea de tiempo para hacer las aplicaciones
+
+A continuación el video y las diapositivas:
 
 <div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.1972%;">
 <iframe src="https://www.youtube.com/embed/PEumYXDWgb8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;"  allowfullscreen></iframe>
 </div>
-
-<br>
-
-Diapositivas:
 
 <div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.1972%;"><iframe src="https://speakerdeck.com/player/b76266d5e03b48f2985eec3fc515c481" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no" allow="encrypted-media"></iframe></div>
 
