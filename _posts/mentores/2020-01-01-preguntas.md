@@ -24,14 +24,20 @@ En este espacio ponemos a tu disposición una serie de paneles en las que discut
 
 ### 1. Presentación del programa de mentores
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9_ioOEwoKUc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Video:
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.1972%;">
+<iframe src="https://www.youtube.com/embed/9_ioOEwoKUc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;"  allowfullscreen></iframe>
+</div>
 
+Diapositivas:
 <div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.1972%;"><iframe src="https://speakerdeck.com/player/84e9a177d67948a0a7c908282cc60f76" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no" allow="encrypted-media"></iframe></div>
 
 ### 2. Sobre las aplicaciones en general
 
+Video:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PEumYXDWgb8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+Diapositivas:
 <div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.1972%;"><iframe src="https://speakerdeck.com/player/b76266d5e03b48f2985eec3fc515c481" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no" allow="encrypted-media"></iframe></div>
 
 ### 3. Documentos en detalle
