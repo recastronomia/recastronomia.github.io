@@ -62,11 +62,40 @@ A continuación el video y las diapositivas:
 
 ### 3. Documentos en detalle
 
-PENDIENTE
+En este tercer panel discutiremos sobre los documentos en detalle que requieren las postulaciones a posgrado:
+* Carta de motivación y/o research statement
+* CV
+* Cartas de recomendación
+* Requisitos de inglés
+* Calificaciones
+* Legalización de documentos
+* Exámenes de admisión
 
-### 4. Becas
+A continuación el video y las diapositivas:
 
-PENDIENTE
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.1972%;">
+<iframe src="https://www.youtube.com/embed/kpyapzPtX4w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;"  allowfullscreen></iframe>
+</div>
+
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.1972%;"><iframe src="https://speakerdeck.com/player/b76266d5e03b48f2985eec3fc515c481" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no" allow="encrypted-media"></iframe></div>
+
+
+### 4. Becas y financiamiento
+
+En este cuarto panel discutiremos sobre examenes de admisión, becas y financiamiento:
+* Exámenes de admisión y Becas USA
+* Exámenes de admisión y Becas Mexico
+* Exámenes de admisión y Becas Chile
+* Exámenes de admisión y Becas Brasil
+* Colfuturo y Icetex / Min Ciencia/ Fullbright 
+
+A continuación el video y las diapositivas:
+
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.1972%;">
+<iframe src="https://www.youtube.com/embed/LZtKU01235g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;"  allowfullscreen></iframe>
+</div>
+
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.1972%;"><iframe src="https://speakerdeck.com/player/fbb357bba79945a48472f1d4e2d16574" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no" allow="encrypted-media"></iframe></div>
 
 ### 5. ¿Cómo iniciarse en la investigación?
 
