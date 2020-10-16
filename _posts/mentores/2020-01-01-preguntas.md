@@ -16,7 +16,7 @@ En este espacio ponemos a tu disposición una serie de paneles en las que discut
 | Presentación del programa               | Septiembre 4  |
 | Sobre las aplicaciones en general       | Septiembre 11 |
 | Documentos en detalle                   | Septiembre 18 |
-| Becas y financiamiento                  | Septiembre 25 |
+| Becas y financiamiento                  | Septiembre 25 y Octubre 2 |
 | ¿Cómo iniciarse en la investigación?    | Octubre 9     |
 | Sobre la vida de estudiante de posgrado | Octubre 23    |
 | Vida fuera de la academia               | Noviembre 6   |
