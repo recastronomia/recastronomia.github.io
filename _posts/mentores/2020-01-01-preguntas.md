@@ -80,7 +80,7 @@ A continuación el video y las diapositivas:
 <div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.1972%;"><iframe src="https://speakerdeck.com/player/b76266d5e03b48f2985eec3fc515c481" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no" allow="encrypted-media"></iframe></div>
 
 
-### 4. Becas y financiamiento
+### 4. Becas y financiamiento (Parte 1/2)
 
 En este cuarto panel discutiremos sobre examenes de admisión, becas y financiamiento:
 * Exámenes de admisión y Becas USA
@@ -97,18 +97,48 @@ A continuación el video y las diapositivas:
 
 <div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.1972%;"><iframe src="https://speakerdeck.com/player/fbb357bba79945a48472f1d4e2d16574" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no" allow="encrypted-media"></iframe></div>
 
-### 5. ¿Cómo iniciarse en la investigación?
+### 5. Becas y financiamiento (Parte 2/2)
+
+En este quinto panel continuaremos con los temas de becas y financiamiento, ahora en Europa y Canadá:
+* Becas en Alemania y Suiza
+* Becas en Holanda y países nórdicos
+* Becas en Francia
+* Becas en España e Italia
+* Becas en el Reino Unido
+* Becas en Canadá
+
+A continuación el video y las diapositivas:
+
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.1972%;">
+<iframe src="https://www.youtube.com/embed/3z1ngQ8afzo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;"  allowfullscreen></iframe>
+</div>
+
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.1972%;"><iframe src="https://speakerdeck.com/player/730d4f9833c9436c8db89a91a94d6087" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no" allow="encrypted-media"></iframe></div>
+
+### 6. ¿Cómo iniciarse en la investigación?
+
+En este sexto panel hablaremos sobre las maneras de empezar en el mundo de la investigación:
+* Aspectos generales
+* Conferencias - Pasantías - Escuelas
+* Artículos científicos
+* Aprender a Programar
+
+A continuación el video y las diapositivas:
+
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.1972%;">
+<iframe src="https://www.youtube.com/embed/Mj5d_FG8M1w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;"  allowfullscreen></iframe>
+</div>
+
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.1972%;"><iframe src="https://speakerdeck.com/player/b6184a1597214c4b94a91b8c45a55adc" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no" allow="encrypted-media"></iframe></div>
+
+### 7. Sobre la vida de estudiante de posgrado
 
 PENDIENTE
 
-### 6. Sobre la vida de estudiante de posgrado
+### 8. Vida fuera de la academia 
 
 PENDIENTE
 
-### 7. Vida fuera de la academia 
-
-PENDIENTE
-
-### 8. Ética en la investigación
+### 9. Ética en la investigación
 
 PENDIENTE
