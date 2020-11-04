@@ -133,7 +133,21 @@ A continuación el video y las diapositivas:
 
 ### 7. Sobre la vida de estudiante de posgrado
 
-PENDIENTE
+En este séptimo panel discutiremos sobre multiples temas que conciernen la vida de estudiante de posgrado: 
+
+* Salud mental
+* Duración de la carrera
+* Adaptación a otro cultura
+* Perspectiva de género
+* Resolución de conflictos
+
+A continuación el video y las diapositivas:
+
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.1972%;">
+<iframe src="https://www.youtube.com/embed/GrWsPcK0r84" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;"  allowfullscreen></iframe>
+</div>
+
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.1972%;"><iframe src="https://speakerdeck.com/player/fc0772b89e7b4897af138d2374fd2f24" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no" allow="encrypted-media"></iframe></div>
 
 ### 8. Vida fuera de la academia 
 
