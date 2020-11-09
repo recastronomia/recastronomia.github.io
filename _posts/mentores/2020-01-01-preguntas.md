@@ -151,7 +151,22 @@ A continuación el video y las diapositivas:
 
 ### 8. Vida fuera de la academia 
 
-PENDIENTE
+En este octavo panel discutiremos sobre multiples temas que conciernen un futuro profesional en la industria, fuera del mundo academico. Los temas a tratar son:
+
+* El mito
+* Un camino alternativo
+* Una decisión
+* Algunos recursos
+* Ejemplos de empresas en Colombia
+* Invitados
+
+A continuación el video y las diapositivas:
+
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.1972%;">
+<iframe src="https://www.youtube.com/embed/qXOhAMiaBHA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;"  allowfullscreen></iframe>
+</div>
+
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.1972%;"><iframe src="https://speakerdeck.com/player/f0104ee1942b44c68ef2c9c2c7ec1ccd" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no" allow="encrypted-media"></iframe></div>
 
 ### 9. Ética en la investigación
 
