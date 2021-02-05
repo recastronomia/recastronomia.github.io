@@ -40,6 +40,11 @@
     url: "/mentores/mentor/"
   - title: "Quiero ser mentorado"
     url: "/mentores/mentorado/"
+  - title: "Paneles"
+    url: "/mentores/paneles/"
+  - title: "Comite Organizador"
+    url: "/mentores/comite/"
+
 
 # - title: Blog
 #   url: "/blog/"
