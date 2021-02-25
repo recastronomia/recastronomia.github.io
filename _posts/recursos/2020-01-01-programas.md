@@ -10,7 +10,25 @@ header:
 
 ---
 
+_Ultima actualizacion:_ Febrero-24-2021
+
+Si estas interesada/o en hacer una carrera en astronomía te recomendamos que
+asistas a escuelas de verano y a pasantías. En las escuelas de verano puedes
+aprender mucho sobre un tema en especifico (atmosferas de exoplanetas, agujeros  
+negros etc..). También podrás conocer otros estudiantes y profesores de otros 
+países. Normalmente estas escuelas duran entre una a varias semanas. Y en
+algunos casos hay becas para los estudiantes asistentes.        
+  
+Las pasantías en cambio están diseñadas para que las/los estudiantes desarrollen
+proyectos de investigación. Normalmente estas pasantías duran uno o un par de meses en los cuales el/la estudiante recibe un salario.
+     
+Asistir a escuelas de verano y a las pasantías son una excelente oportunidad
+para adquirir más experiencia, relacionarse con otros estudiantes y profesores.
+A continuación te dejamos  una lista de las escuelas de verano y pasantías más populares en astronomía. 
+
 ### Colegio 
+
+Programas de pasantias para estudiantes de Colegio:
 
 | Nombre                                                     | Fecha  | Lugar          |
 |------------------------------------------------------------|--------|----------------|
@@ -18,13 +36,16 @@ header:
 
 ### Pregrado / Maestría
 
+
+Escurlas de Verano y Pasantias para estudiantes de pregrado y maestria:
+
 | Nombre                                                                                                                               | Fecha              | Lugar               |
 |--------------------------------------------------------------------------------------------------------------------------------------|--------------------|---------------------|
-| [Space Astronomy Summer Programs (STScI)](http://www.stsci.edu/institute/smo/students)                                               | Verano             | Estados Unidos      |
+| [Space Astronomy Summer Programs (STScI)](https://www.stsci.edu/opportunities/space-astronomy-summer-program)                                               | Verano             | Estados Unidos      |
 | [International School for Young Astronomers (ISYAs)](http://www.iau.org/education/commission46/international_school/)                | Primavera          | Diferentes lugares  |
 | [Caltech Summer Undergraduate Research Fellowships (SURF)](http://www.surf.caltech.edu/)                                             | Verano             | Estados Unidos      |
 | [Vatican Observatory Summer School](http://www.vaticanobservatory.va/content/specolavaticana/en/summer-schools--voss-/voss-faq.html) | Verano             | Ciudad del Vaticano |
-| [IAC Summer Research Grants - Astrophysics](http://www.iac.es/ensenanza/BECAS/Verano/index_ver.html)                                 | Verano             | España              |
+| [IAC Summer Research Grants - Astrophysics](http://www.iac.es/en/postgraduate-training/summer-and-winter-schools)                                 | Verano             | España              |
 | [Escuela de Astronomía Observacional para Estudiantes Latinoamericanos (ESAOBELA)](http://www.astroscu.unam.mx/cursos/esaobela/)     | Invierno           | México              |
 | [The Leiden/ESA Astrophysics Program for Summer Students (LEAPS)](http://leaps.strw.leidenuniv.nl/)                                  | Verano             | Holanda             |
 | [ESAC Trainee Project](https://www.cosmos.esa.int/web/esac-trainees)                                                                 | Diferentes tiempos | España              |
@@ -44,3 +65,4 @@ header:
 | [IPAC Visiting Graduate Fellowship](https://www.ipac.caltech.edu/page/graduate-fellowship) | Diferentes tiempos | Estados Unidos |
 
 
+Aidicionalmente puedes econtrar otros programas en esta [pagina web](https://astrophysicsgirl.com/internships/)
