@@ -19,11 +19,11 @@
   url: "/recursos/"
   side: left
   dropdown:
-  - title: "Programas"
+  - title: "Escuelas y Pasantias"
     url: "/recursos/programas/"
-  - title: "Ofertas"
+  - title: "Ofertas de trabajo"
     url: "/recursos/ofertas/"
-  - title: "Eventos"
+  - title: "Eventos de RECA"
     url: "/recursos/eventos/"
   - title: "Noticias"
     url: "/recursos/noticias/"
