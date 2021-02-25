@@ -6,7 +6,8 @@ header:
     image_fullwidth: "header.png"
 ---
 
-Acá encontrarás escuelas, programas, videos, ofertas laborales y más...
+Acá encontrarás recursos muy útiles para tu carrera en astronomía. Escuelas de verano, pasantías, programas de pregrado y posgrados, ofertas laborales y consejos. 
+
 
 <ul>
     {% for post in site.categories.recursos %}
