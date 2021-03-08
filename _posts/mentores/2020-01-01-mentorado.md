@@ -5,7 +5,7 @@ breadcrumb: true
 categories:
     - mentores
 header:
-   image_fullwidth: "header.png"
+   image_fullwidth: "BANNER_MENTORES.png"
 
 ---
 
