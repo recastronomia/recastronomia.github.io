@@ -3,7 +3,7 @@ layout: page
 title: "Mentores"
 permalink: "/mentores/"
 header:
-    image_fullwidth: "header.png"
+    image_fullwidth: "BANNER_MENTORES.png"
 ---
 
 En el 2020 inauguramos el programa de mentores cuyo fin es conectar 
