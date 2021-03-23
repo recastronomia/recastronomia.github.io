@@ -99,7 +99,7 @@ los/las profesores/as del pregrado. Sin embargo, los mentores no tienen cómo
 justificar ese respaldo ante los comité de selección.
 
 
- ## Una vez aceptada/o a un programa
+## Una vez aceptada/o a un programa
 
 [//]: # (17.  Fui admitida/o a un programa de maestría/doctorado pero no tengo beca. Becas en Colombia)
 
@@ -107,8 +107,7 @@ justificar ese respaldo ante los comité de selección.
 #####  15. Cómo escoger un/a director/a de tesis.
 
 > Siguiendo las sugerencias del artículo de [Michael C. Loui del 2004](https://d32ogoqmya1dw8.cloudfront.net/files/geoethics/getting_started--ethics_resour.pdf), podrías hacer lo siguiente:
-
-> Toma un curso con ese/a posible director/a de tesis: Tener la oportunidad de interactuar durante, al menos, un semestre puede darte una pista sobre el estilo de trabajo del/la profesor/a. Incluso se podría plantear la idea de hacer algún proyecto corto, adicional al contenido de la asignatura, el cual tendría un
+Toma un curso con ese/a posible director/a de tesis: Tener la oportunidad de interactuar durante, al menos, un semestre puede darte una pista sobre el estilo de trabajo del/la profesor/a. Incluso se podría plantear la idea de hacer algún proyecto corto, adicional al contenido de la asignatura, el cual tendría un
 enfoque experimental (toma y procesamiento de datos) o teórico.
 Busca sobre los artículos que ha publicado:
 Contacta a actuales y antiguos alumnos: Conocer a los estudiantes actuales te
@@ -120,11 +119,9 @@ artículos escritos por él/ella para que puedas hacer “preguntas inteligentes
 sobre los intereses de investigación del/la profesor/a. Recuerda que debes
 buscar un/una asesor/a de tesis que pueda ayudarte a cumplir tus objetivos, y
 cuyo estilo de trabajo sea compatible con el tuyo.
-
-> Adicionalmente, te proponemos algunas preguntas que, quizás, sean interesantes
+Adicionalmente, te proponemos algunas preguntas que, quizás, sean interesantes
 que tengas en cuenta antes de elegir a tu futuro/a tutor/a:
-
-> ¿Con qué rapidez, generalmente, revisa el profesor los borradores del manuscrito
+¿Con qué rapidez, generalmente, revisa el profesor los borradores del manuscrito
 y responde dudas al correo? ¿Con qué frecuencia se requieren informes y avances?
 ¿El profesor incentiva a mejorar las habilidades de escritura y expresión oral?
 ¿El profesor fomentará la publicación de tu trabajo? ¿Históricamente ha ayudado
