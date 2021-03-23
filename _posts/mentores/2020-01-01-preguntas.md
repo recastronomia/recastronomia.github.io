@@ -15,19 +15,19 @@ header:
 ## Sobre el programa de mentores
 
   
-### Question 
+###Question 
 ¿De qué consta el programa?
 
-### Answer 
+###Answer 
 Se te asignará un mentor/a con quien podrás tener reuniones uno a uno periódicamente. 
 En estas reuniones recibirás consejos para planear tu proceso de
 aplicación a posgrados en astronomía.  Adicionalmente, habrá reuniones
 periódicas con los demás estudiantes en donde discutiremos y responderemos
 preguntas generales.
 
-### Question
+###Question
  ¿Qué duración tiene el programa de mentores?
-### Answer
+###Answer
 El programa tiene una duración de 11 meses. Empezando en Julio y terminando en
 Mayo.    
 
