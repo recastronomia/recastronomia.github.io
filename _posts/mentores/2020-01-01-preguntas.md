@@ -15,7 +15,7 @@ header:
 ## Sobre el programa de mentores
 
 
-1. ¿De qué consta el programa?
+#####  1. ¿De qué consta el programa?
 
 >  Se te asignará un mentor/a con quien podrás tener reuniones uno a uno periódicamente.
   En estas reuniones recibirás consejos para planear tu proceso de
@@ -23,24 +23,24 @@ header:
   periódicas con los demás estudiantes en donde discutiremos y responderemos
   preguntas generales.
 
-2. ¿Qué duración tiene el programa de mentores?
+#####  2. ¿Qué duración tiene el programa de mentores?
 
 > El programa tiene una duración de 11 meses. Empezando en Julio y terminando en
 Mayo.    
 
-3. ¿Tiene algún costo el programa?
+#####  3. ¿Tiene algún costo el programa?
 
 > No, el programa es totalmente gratis.
 
 ## Para estudiantes interesados:
 
-4. ¿Hay algún requisito para ser admitido?
+#####  4. ¿Hay algún requisito para ser admitido?
 
 > Si, debes estar en tus dos últimos años del pregrado o en maestría.
  Preferiblemente en física, astronomía o áreas afines.  
 
 
-5. ¿Cómo y cuándo me puedo unir al programa?
+#####  5. ¿Cómo y cuándo me puedo unir al programa?
 
 >Normalmente las convocatorias son en Junio de cada año. Para inscribirse solo
 hay que llenar un formulario. Sin embargo, la admisión en otros meses del año es
@@ -50,47 +50,47 @@ explicando por qué quieres unirte al programa.
 
 ## Para mentores:
 
-6. Estoy interesada/o en ser mentor/a, ¿cómo puedo aplicar?
+##### 6. Estoy interesada/o en ser mentor/a, ¿cómo puedo aplicar?
 
 > Todo el tiempo estamos abiertos a recibir mentores. Si estas interesda/o por favor mándanos un correo a reca.astronomia@gmail.com
 
-7. ¿Hay algún requisito para ser mentor/a?
+##### 7. ¿Hay algún requisito para ser mentor/a?
 
 > Tener el título de doctorado o estar terminando el doctorado en astronomía o áreas > afines.
 
-8. Como mentor/a ¿cuánto tiempo debo invertir a la semana?
+#####  8. Como mentor/a ¿cuánto tiempo debo invertir a la semana?
 
 > Esto depende mucho del mentorado y de la época del año. En promedio entre 0.5-2 horas a la semana.
 
 ## Antes de aplicar a posgrados
 
-9. ¿Cuál es la diferencia entre los doctorados en Europa y Estados Unidos?
+#####  9. ¿Cuál es la diferencia entre los doctorados en Europa y Estados Unidos?
 
 > En Europa los doctorados son más cortos entre 3-4 años y en la mayoría de los casos hay que tener una maestría para ser admitido/a.
 
 > En Estados Unidos el doctorado dura mínimo 5 años, pero los dos primeros años son de clases y se puede obtener el título de maestría durante el doctorado. Por
 lo tanto no es necesario tener una maestría antes de ser admitido/a.
 
-10.  ¿A qué programas puedo aplicar en Colombia?
+##### 10. ¿A qué programas puedo aplicar en Colombia?
 
 > En esta página hemos recopilado todos los programas de posgrado en astronomía en Colombia.
 
-11. ¿A qué programas puedo aplicar fuera del país?
+##### 11. ¿A qué programas puedo aplicar fuera del país?
 
 > En esta página hemos recopilado varios programas de posgrado en astronomía fuera Colombia.
 
-12. ¿Qué papeles necesito para hacer la aplicación?
+##### 12. ¿Qué papeles necesito para hacer la aplicación?
 
 > Esto depende mucho del país. Normalmente, se necesita, el CV, carta de motivación, calificaciones del pregrado y cartas de recomendación. Adicionalmente algunas universidades piden el Toefl o el IELTS, GRE general, GRE en física. En algunas universidades de Latinoamérica hay exámenes de admisión para la maestría o el doctorado. Te recomendamos [este video](https://youtu.be/kpyapzPtX4w) que hicimos sobre los requisitos para aplicar a posgrados en astronomía.
 
 [//]: # (14.  ¿Hay algun formato para el CV?)
 [//]: # (15.  ¿Cómo escribir la carta de motivación?)
 
-13.  ¿Necesito hablar inglés para hacer un posgrado en astronomía?.
+#####  13.  ¿Necesito hablar inglés para hacer un posgrado en astronomía?.
 
 > Es *muy* útil hablar y leer inglés, indudablemente abre muchas puertas. Sin embargo, si haces un posgrado en Latinoamérica no dependerás tanto de saber inglés.
 
-14. ¿Es posible recibir una carta de recomendación de mi mentor/a al momento de hacer las aplicaciones?
+#####  14. ¿Es posible recibir una carta de recomendación de mi mentor/a al momento de hacer las aplicaciones?
 
 > Probablemente no. Los comité de selección para posgrados, escuelas y estancias
 toman muy en cuenta la opinión del/la tutor/a por ser la persona que ha visto tu
@@ -104,7 +104,7 @@ justificar ese respaldo ante los comité de selección.
 [//]: # (17.  Fui admitida/o a un programa de maestría/doctorado pero no tengo beca. Becas en Colombia)
 
 
-15. Cómo escoger un/a director/a de tesis.
+#####  15. Cómo escoger un/a director/a de tesis.
 
 > Siguiendo las sugerencias del artículo de [Michael C. Loui del 2004](https://d32ogoqmya1dw8.cloudfront.net/files/geoethics/getting_started--ethics_resour.pdf), podrías hacer lo siguiente:
 
