@@ -39,7 +39,6 @@ Mayo.
 > Si, debes estar en tus dos últimos años del pregrado o en maestría.
  Preferiblemente en física, astronomía o áreas afines.  
 
-
 #####  5. ¿Cómo y cuándo me puedo unir al programa?
 
 >Normalmente las convocatorias son en Junio de cada año. Para inscribirse solo
