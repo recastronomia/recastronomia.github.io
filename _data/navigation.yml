@@ -46,11 +46,11 @@
     url: "/mentores/comite/"
     
     - title: "Internship"
-  url: ""
+ 
   side: left
   dropdown:
   - title: "Sobre el programa"
-    url: ""
+   
 
 
 # - title: Blog
