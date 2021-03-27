@@ -1,1 +1,11 @@
 
+---
+layout: page
+subheadline: RECA Summer Internship Program
+title:  "Sobre el programa"
+breadcrumb: true
+categories:
+    - Internship
+header:
+   image_fullwidth: "header.png"
+---
