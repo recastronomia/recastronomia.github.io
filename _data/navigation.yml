@@ -45,6 +45,13 @@
   - title: "Comite Organizador"
     url: "/mentores/comite/"
     
+    
+    - title: "Internship"
+  side: left
+  dropdown:
+  - title: "Sobre el programa"
+    url: "/Internship/Sobre el programa/"
+    
   
    
 
