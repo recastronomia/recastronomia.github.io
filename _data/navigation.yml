@@ -46,11 +46,12 @@
     url: "/mentores/comite/"
     
     
-    #- title: "Internship"
-  #side: left
-  #dropdown:
-  #- title: "Sobre el programa"
-   # url: "/Internship/Sobre el programa/"
+    - title: "Internship"
+    url: "/internship/"
+  side: left
+  dropdown:
+  - title: "Sobre el programa"
+    url: "/Internship/Sobre el programa/"
     
   
    
