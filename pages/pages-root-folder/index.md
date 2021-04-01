@@ -13,25 +13,15 @@ widget1:
   image: nosotros.jpg
   text: 'RECA es una asociación que busca crear y mantener vínculos fuertes entre los estudiantes de astronomía de Colombia.'
 widget2:
-  title: "Programa de Mentores"
-  url: '/mentores'
-  image: POSTER_MENTORES.jpg
-  text: 'Nuestro programa de mentores ofrece monitorias a estudiantes de astronomía que esten en ultimos semestres de la carrera en Fisica o areas afines y que se encuentren interesados en perseguir una carrera en astronomía.'
-widget3:
-  title: "Internship"
-  url: '/internship'
-  image: POSTER_INTERNSHIP.jpg
-  text: 'Pasantias que permiten la formación en investigación científica en Astronomía, Astrofísica y Cosmología dirigido a estudiantes de instituciones colombianas.'
-widget4:
-  title: "¡Únete a nuestra comunidad en Slack!"
-  url: 'https://join.slack.com/t/recastronomia/shared_invite/zt-etcnmski-Owytv7Ov8WEEWP4~pUGqzw'
-  image: slack.jpg
-  text: 'Conéctate con todos los estudiantes colombianos de astronomía del país y del exterior. Encontrarás diferentes canales para consejos, noticias, eventos y más.'
-widget5:
   title: "¿Quien eres tú?"
   url: '/censo'
   image: censo_virtual.jpg
   text: 'Ayudanos a conocer, re-conocer y ubicar a los estudiantes de RECA. Si eres colombiano y estas proyectandote profesionalmente en astronomía por favor llena nuestro censo electronico.'
+widget3:
+  title: "¡Únete a nuestra comunidad en Slack!"
+  url: 'https://join.slack.com/t/recastronomia/shared_invite/zt-etcnmski-Owytv7Ov8WEEWP4~pUGqzw'
+  image: slack.jpg
+  text: 'Conéctate con todos los estudiantes colombianos de astronomía del país y del exterior. Encontrarás diferentes canales para consejos, noticias, eventos y más.'
 
 #
 # Use the call for action to show a button on the frontpage
@@ -47,6 +37,29 @@ widget5:
 #  url: https://join.slack.com/t/recastronomia/shared_invite/zt-dyks4zz6-kLfGl_4QPXLETtxn~DaFAQ
 #  text: ¡Unete a nuestro Slack!
 #  style: alert
+
+## Nuestros programas
+<!--more-->
+
+<div class="row t30">
+    <div class="medium-4 columns">
+        <img src="{{ site.urlimg }}POSTER_MENTORES.jpg" alt="">
+        <p>Nuestro programa de mentores ofrece monitorias a estudiantes de astronomía que esten en ultimos semestres de la carrera en Fisica o areas afines y que se encuentren interesados en perseguir una carrera en astronomía</p>
+    </div><!-- /.medium-4.columns -->
+
+    <div class="medium-4 columns">
+        <img src="{{ site.urlimg }}jgs.jpg" alt="">
+        <p>Javier Gonzalez Sanchez, Researcher, Observatorio Nacional de Rio de Janeiro</p>
+    </div><!-- /.medium-4.columns -->
+
+    <div class="medium-4 columns">
+        <img src="{{ site.urlimg }}POSTER_INTERNSHIP.jpg" alt="">
+        <p>Pasantias que permiten la formación en investigación científica en Astronomía, Astrofísica y Cosmología dirigido a estudiantes de instituciones colombianas.</p>
+    </div><!-- /.medium-4.columns -->
+</div><!-- /.row -->
+
+
+
 permalink: /index.html
 #
 # This is a nasty hack to make the navigation highlight
