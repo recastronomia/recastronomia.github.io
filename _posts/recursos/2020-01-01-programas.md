@@ -65,4 +65,4 @@ Escurlas de Verano y Pasantias para estudiantes de pregrado y maestria:
 | [IPAC Visiting Graduate Fellowship](https://www.ipac.caltech.edu/page/graduate-fellowship) | Diferentes tiempos | Estados Unidos |
 
 
-Aidicionalmente puedes econtrar otros programas en esta [pagina web](https://astrophysicsgirl.com/internships/)
+Adicionalmente puedes econtrar otros programas en esta [pagina web](https://astrophysicsgirl.com/internships/)
