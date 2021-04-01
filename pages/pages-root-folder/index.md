@@ -13,11 +13,16 @@ widget1:
   image: nosotros.jpg
   text: 'RECA es una asociación que busca crear y mantener vínculos fuertes entre los estudiantes de astronomía de Colombia.'
 widget2:
-  title: "¿Quién eres tú?"
-  url: '/censo'
-  image: censo_virtual.jpg
-  text: 'Ayudanos a conocer, re-conocer y ubicar a los estudiantes de RECA. Si eres colombiano y estas proyectandote profesionalmente en astronomía por favor llena nuestro censo electronico.'
+  title: "Programa de Mentores"
+  url: '/mentores'
+  image: POSTER_MENTORES.jpg
+  text: 'Nuestro programa de mentores ofrece monitorias a estudiantes de astronomía que esten en ultimos semestres de la carrera en Fisica o areas afines y que se encuentren interesados en perseguir una carrera en astronomía.'
 widget3:
+  title: "Internship"
+  url: '/internship'
+  image: POSTER_INTERNSHIP.jpg
+  text: 'Pasantias que permiten la formación en investigación científica en Astronomía, Astrofísica y Cosmología dirigido a estudiantes de instituciones colombianas.'
+widget4:
   title: "¡Únete a nuestra comunidad en Slack!"
   url: 'https://join.slack.com/t/recastronomia/shared_invite/zt-etcnmski-Owytv7Ov8WEEWP4~pUGqzw'
   image: slack.jpg
@@ -34,7 +39,7 @@ widget3:
 #
 #callforaction:
 #  url: https://join.slack.com/t/recastronomia/shared_invite/zt-dyks4zz6-kLfGl_4QPXLETtxn~DaFAQ
-#  text: ¡Unete a nuestro Slack! 
+#  text: ¡Unete a nuestro Slack!
 #  style: alert
 permalink: /index.html
 #
