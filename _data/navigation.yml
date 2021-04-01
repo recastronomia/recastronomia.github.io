@@ -33,7 +33,7 @@
   side: left
   dropdown:
   - title: "Sobre el programa"
-    url: "/mentores/programa/"  
+    url: "/mentores/programa/"
   - title: "Preguntas frecuentes"
     url: "/mentores/preguntas/"
   - title: "Quiero ser mentor"
@@ -44,17 +44,19 @@
     url: "/mentores/paneles/"
   - title: "Comite Organizador"
     url: "/mentores/comite/"
-    
-    
+
+
 - title: "Internship"
   url: "/internship/"
   side: left
   dropdown:
   - title: "Sobre el programa"
     url: "/internship/programa/"
-    
-  
-   
+  - title: "Personas"
+    url: "/internship/personas/"
+
+
+
 
 
 # - title: Blog
@@ -68,7 +70,7 @@
   url: "/censo/"
   side: left
 
-  
+
 - title: "Buscar"
   url: "/buscar/"
   side: right
