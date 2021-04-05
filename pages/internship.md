@@ -19,7 +19,6 @@ contribuir con su formación académica y mejorar su currículum en aras de
 fortalecer aplicaciones a programas de posgrado en astronomía y áreas afines a
 nivel global.
 
-
 ## Los objetivos de este programa son:
 - Fomentar la investigación científica de estudiantes en formación en las áreas de Astronomía, Astrofísica y Cosmología.
 - Crear redes de colaboración entre los estudiantes e investigadores nacionales e internacionales.
@@ -27,6 +26,9 @@ nivel global.
 - Fortalecer la colaboración interinstitucional entre miembros de la comunidad astronómica en Colombia y fuera del país.
 - Maxímizar el alcance de oportunidades de investigación a todo el territorio colombiano.)
 
+
+Cualquier pregunta sobre el programa puede ser dirigida al coordinador del programa Dr. Luis
+Henry Quiroga a: lquiroga[at]nrao.edu. 
 
 ## Aplicación 2021:
 
@@ -115,7 +117,7 @@ formación estelar, y los efectos tempranos de feedback durante la Reionización
 (z > 6) en configuraciones con materia bariónica + materia oscura.
 
 
-![Illustris TNG simulation](https://github.com/recastronomia/recastronomia.github.io/tree/master/images/TNG.png "Illustris simulations. Credit image:https://www.tng-project.org")
+![Illustris TNG simulation](https://github.com/recastronomia/recastronomia.github.io/blob/115c57bbc467461463b2d4f4d150fc2ba74a7bc3/images/TNG.png "Illustris simulations. Credit image:https://www.tng-project.org")
 
 #### Caracterización de la evolución del enrojecimiento en las supernovas tipo Ia
 _Advisors: Dr. Santiago Gonzalez-Gaitán (CENTRA, Portugal),  Dra. Claudia P. Gutiérrez (UTU, Finland)_
@@ -267,7 +269,7 @@ estelar massiva.
 
 #### Identification of X-ray objects by resolving infrared sources: 
 _Advisor: Prof. Jose Joaquin Rodes Roca (https://blogs.ua.es/xragua/)[https://blogs.ua.es/xragua/] (Universidad de Alicante)_ 
-![x-ray sources](https://github.com/recastronomia/recastronomia.github.io/tree/master/images/x-ray-source.jpeg "X-ray sources from Rodes-Roca et al. (2013) ")
+![x-ray sources](https://github.com/recastronomia/recastronomia.github.io/blob/115c57bbc467461463b2d4f4d150fc2ba74a7bc3/images/xray_sources.jpeg "X-ray sources from Rodes-Roca et al. (2013) ")
 
 Infrared catalogues have different resolutions. By cross-correlating these,
 multiple identifications will be resolved and their possible X-ray companion
