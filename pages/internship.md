@@ -31,8 +31,8 @@ nivel global.
 ## Aplicación 2021:
 
 La convocatoria para participar en el internship del 2021 esta abierta hasta el
-*31 de abril*. Para aplicar porfavor llenar (este formulario de
-postulación)[https://docs.google.com/forms/d/e/1FAIpQLScURl4nesuCNXS7e0TUKYpTBrVkcnwGlCZlNDCb5GVWsuwYzQ/viewform].
+*31 de abril*. Para aplicar porfavor llenar [este formulario de
+postulación](https://docs.google.com/forms/d/e/1FAIpQLScURl4nesuCNXS7e0TUKYpTBrVkcnwGlCZlNDCb5GVWsuwYzQ/viewform).
 
 ### Requisitos: 
 
@@ -113,6 +113,9 @@ como JWST, VLT o LSST.
 Usaremos simulaciones y el pipeline de Illustris TNG para entender cómo se da la
 formación estelar, y los efectos tempranos de feedback durante la Reionización
 (z > 6) en configuraciones con materia bariónica + materia oscura.
+
+
+![Illustris TNG simulation](https://github.com/recastronomia/recastronomia.github.io/tree/master/images/TNG.png "Illustris simulations. Credit image:https://www.tng-project.org")
 
 #### Caracterización de la evolución del enrojecimiento en las supernovas tipo Ia
 _Advisors: Dr. Santiago Gonzalez-Gaitán (CENTRA, Portugal),  Dra. Claudia P. Gutiérrez (UTU, Finland)_
@@ -207,7 +210,7 @@ fluctuaciones de materia y de su velocidad.
 
 
 #### Líneas de emisión y morfología de galaxias simuladas en EAGLE
-_Advisor: PhD(c) (Andres Felipe Ramos Padilla)[https://www.astro.rug.nl/~ramos/] (University of Groningen / SRON)_
+_Advisor: PhD(c) [Andres Felipe Ramos Padilla](https://www.astro.rug.nl/~ramos/) (University of Groningen / SRON)_
 
 EAGLE es una simulación que pretende analizar la evolución y formación de
 galaxias en el Universo. Además es una de las simulaciones más usadas y más
