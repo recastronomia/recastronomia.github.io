@@ -119,7 +119,7 @@ formación estelar, y los efectos tempranos de feedback durante la Reionización
 (z > 6) en configuraciones con materia bariónica + materia oscura.
 
 
-![Illustris TNG simulation]({ site.urlimg }}TNG.png "Illustris simulations. Credit image:https://www.tng-project.org")
+![Illustris TNG simulation]({{ site.urlimg }}TNG.png "Illustris simulations. Credit image:https://www.tng-project.org")
 
 #### Caracterización de la evolución del enrojecimiento en las supernovas tipo Ia
 _Advisors: Dr. Santiago Gonzalez-Gaitán (CENTRA, Portugal),  Dra. Claudia P. Gutiérrez (UTU, Finland)_
@@ -178,7 +178,7 @@ su trabajo.
 
 Pagina web del proyecto: [http://research.iac.es/proyecto/stripe82/](http://research.iac.es/proyecto/stripe82/)
 
-![]({ site.urlimg }}ngc3486WHT.png "Imagen a color de la galaxia NGC3486")
+![]({{ site.urlimg }}ngc3486WHT.png "Imagen a color de la galaxia NGC3486")
 
 #### Marte como exoplaneta
 _Advisor: Dr. Leonardos Gkouvelis (NASA Αmes research center)_
@@ -275,7 +275,7 @@ estelar massiva.
 
 #### Identification of X-ray objects by resolving infrared sources: 
 _Advisor: Prof. Jose Joaquin Rodes Roca [https://blogs.ua.es/xragua/](https://blogs.ua.es/xragua/) (Universidad de Alicante)_ 
-![x-ray sources]({ site.urlimg }}xray_sources.jpeg "X-ray sources from Rodes-Roca et al. (2013) ")
+![x-ray sources]({{ site.urlimg }}xray_sources.jpeg "X-ray sources from Rodes-Roca et al. (2013) ")
 
 Infrared catalogues have different resolutions. By cross-correlating these,
 multiple identifications will be resolved and their possible X-ray companion
