@@ -176,6 +176,10 @@ internacionales con gran experiencia en el campo de imágenes astronómicas
 profundas que le ayudaran en cada uno de los pasos necesarios para llevar a cabo
 su trabajo.
 
+Pagina web del proyecto: [http://research.iac.es/proyecto/stripe82/](http://research.iac.es/proyecto/stripe82/)
+
+![]({ site.urlimg }}ngc3486WHT.png "Imagen a color de la galaxia NGC3486")
+
 #### Marte como exoplaneta
 _Advisor: Dr. Leonardos Gkouvelis (NASA Αmes research center)_
 
@@ -270,7 +274,7 @@ restricciones en los modelos y mejorar nuestro entendimiento sobre la formación
 estelar massiva.
 
 #### Identification of X-ray objects by resolving infrared sources: 
-_Advisor: Prof. Jose Joaquin Rodes Roca (https://blogs.ua.es/xragua/)[https://blogs.ua.es/xragua/] (Universidad de Alicante)_ 
+_Advisor: Prof. Jose Joaquin Rodes Roca [https://blogs.ua.es/xragua/](https://blogs.ua.es/xragua/) (Universidad de Alicante)_ 
 ![x-ray sources]({ site.urlimg }}xray_sources.jpeg "X-ray sources from Rodes-Roca et al. (2013) ")
 
 Infrared catalogues have different resolutions. By cross-correlating these,
