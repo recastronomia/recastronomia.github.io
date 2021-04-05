@@ -210,6 +210,7 @@ at distances of the order of kpc.
 
 #### Cosmología - Distribución de materia en el universo
 _Advisor: Prof. José Gaite Cuesta (Universidad Politécnica de Madrid)_
+
 Empleo métodos de geometría fractal para describir la estructura cósmica y su
 origen. He evaluado los resultados de las simulaciones gravitatorias de
 N-cuerpos y las observaciones de la distribución de galaxias realizadas por
@@ -275,6 +276,7 @@ estelar massiva.
 
 #### Identification of X-ray objects by resolving infrared sources: 
 _Advisor: Prof. Jose Joaquin Rodes Roca [https://blogs.ua.es/xragua/](https://blogs.ua.es/xragua/) (Universidad de Alicante)_ 
+
 ![x-ray sources]({{ site.urlimg }}xray_sources.jpeg "X-ray sources from Rodes-Roca et al. (2013) ")
 
 Infrared catalogues have different resolutions. By cross-correlating these,
