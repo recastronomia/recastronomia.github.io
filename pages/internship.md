@@ -19,6 +19,8 @@ contribuir con su formación académica y mejorar su currículum en aras de
 fortalecer aplicaciones a programas de posgrado en astronomía y áreas afines a
 nivel global.
 
+El programa sera virtual entre los meses de Mayo y Agosto del 2021.
+
 ## Los objetivos de este programa son:
 - Fomentar la investigación científica de estudiantes en formación en las áreas de Astronomía, Astrofísica y Cosmología.
 - Crear redes de colaboración entre los estudiantes e investigadores nacionales e internacionales.
@@ -44,6 +46,7 @@ postulación](https://docs.google.com/forms/d/e/1FAIpQLScURl4nesuCNXS7e0TUKYpTBr
 - Si la o el estudiante ya terminó el pregrado y no ha empezado una maestría es elegible para aplicar.
 - Estar en los últimos dos años del pregrado o licenciatura en física, astronomía o áreas afines.
 - La o el estudiante debe recidir en Colombia.
+- Tener disponibilidad de tiempo para realizar el proyecto de investigación durante los meses de Mayo y Agosto.
 
 ## Proyectos de investigacion 2021:
 
@@ -57,7 +60,7 @@ proyecto investigaremos el impacto de la evaporación de PBH, vía
 radiación Hawking, en la producción de partículas del modelo estándar (SM)
 y el sector oscuro (DS), específicamente de DM y fotones oscuros (DPho), a
 través de los datos cosmológicos disponibles más recientes como: BA0, CMB, SN,
-CC, GW,.., etc. El objetivo principal es que el estudiante adquiera ciertas
+CC, GW, etc. El objetivo principal es que el estudiante adquiera ciertas
 habilidades teóricas, computacionales y estadísticas a través de la manipulación
  de datos observacionales, lo que conduce a la restricción de parámetros físicos
   relevantes para la cosmología y su interpretación a la luz de las diversas
