@@ -61,11 +61,15 @@ Universidad de Antioquia 1-m).
 Preguntas sobre el programa pueden ser dirigidas al coordinador del programa [Dr. Luis
 Henry Quiroga](https://lhquirogan.wixsite.com/lhquirogan) a: lquiroga[at]nrao.edu.
 
-## Aplicación 2021:
+## Solicitud de participación de estudiantes para el 2021:
 
 La convocatoria para participar en el internship del 2021 esta abierta hasta el
-*30 de abril*. Para aplicar porfavor llenar [este formulario de
+*30 de abril*. Para este año tendremos 12 proyectos de investigación por lo que
+se aceptaran 12 estudiantes. La selecion de estudiantes se basara en una carta de
+motivación, CV, notas, además de los requisitos descritros abajo.
+Para hacer parte del programa porfavor llenar [este formulario de
 postulación](https://docs.google.com/forms/d/e/1FAIpQLScURl4nesuCNXS7e0TUKYpTBrVkcnwGlCZlNDCb5GVWsuwYzQ/viewform).
+
 
 ### Requisitos:
 
