@@ -30,42 +30,46 @@ nivel global.
 ## Contacto:
 
 Preguntas sobre el programa pueden ser dirigidas al coordinador del programa Dr. Luis
-Henry Quiroga a: lquiroga[at]nrao.edu. 
+Henry Quiroga a: lquiroga[at]nrao.edu.
 
 ## Aplicación 2021:
 
 La convocatoria para participar en el internship del 2021 esta abierta hasta el
-*31 de abril*. Para aplicar porfavor llenar [este formulario de
+*30 de abril*. Para aplicar porfavor llenar [este formulario de
 postulación](https://docs.google.com/forms/d/e/1FAIpQLScURl4nesuCNXS7e0TUKYpTBrVkcnwGlCZlNDCb5GVWsuwYzQ/viewform).
 
-### Requisitos: 
+### Requisitos:
 
-- Estar en los últimos dos años del pregrado o licenciatura en física,
-  astronomía o áreas afines. 
-- Si la o el estudiante ya terminó el pregrado y no ha empezado una maestría es
-  elegible para aplicar. - Estar en los últimos dos años del pregrado o licenciatura en física, astronomía o áreas afines. 
-- La o el estudiante debe recidir en Colombia. 
+- Estar en los últimos dos años del pregrado o licenciatura en física, astronomía o áreas afines.
+- Si la o el estudiante ya terminó el pregrado y no ha empezado una maestría es elegible para aplicar.
+- Estar en los últimos dos años del pregrado o licenciatura en física, astronomía o áreas afines.
+- La o el estudiante debe recidir en Colombia.
 
 ## Proyectos de investigacion 2021:
 
-#### Testing fundamental physics of primordial black holes as dark matter in light the most recent cosmological data sets
- _Advisor: PhD(c) Alexander Bonilla Rivera (Universidade Federal de Juiz de Fora)_
+#### Probando la física fundamental de los agujeros negros primordiales como materia oscura, a la luz los conjuntos de datos cosmológicos más recientes
+ _Advisor: [PhD(c) Alexander Bonilla Rivera](https://inspirehep.net/authors/1382083?ui-citation-summary=true) (Universidade Federal de Juiz de Fora)_
 
-The primordial black holes (PBH) evaporation is currently considered a very
-efficient mechanism, which could eventually generate all observed density of
-relic of dark matter. In this project we will investigate the impact of the
-evaporation of PBH, via Hawking radiation, in the production of particles of the
-standard model (SM) and the dark sector, specifically from DM and Dark photons
-(DP), through the most recent data cosmologics available as: BA0, CMB, SN,
-CC etc. The main goal is that the student acquires certain theoretical,
-computational and statistical skills through the manipulation of observational
-data, which leads to the restriction of physical parameters relevant to
-cosmology and its interpretation in light of the various tensions well known as
-H0 and Sigma8, but also from the writing of specialized scientific
-disclosure texts. 
+La evaporación de los agujeros negros primordiales (PBH) se considera
+ actualmente un mecanismo muy eficiente, que eventualmente podría generar
+toda la densidad de la reliquia materia oscura (DM) observada. En este
+proyecto investigaremos el impacto de la evaporación de PBH, vía
+radiación Hawking, en la producción de partículas del modelo estándar (SM)
+y el sector oscuro (DS), específicamente de DM y fotones oscuros (DPho), a
+través de los datos cosmológicos disponibles más recientes como: BA0, CMB, SN,
+CC, GW,.., etc. El objetivo principal es que el estudiante adquiera ciertas
+habilidades teóricas, computacionales y estadísticas a través de la manipulación
+ de datos observacionales, lo que conduce a la restricción de parámetros físicos
+  relevantes para la cosmología y su interpretación a la luz de las diversas
+  tensiones conocidas como H0 y S8, pero también de la redacción de textos
+  especializados de divulgación científica.
+
+  ![Black Hole]({{ site.urlimg }}BlackHole.png)
+
+
 
 #### Velocidades radiales y abundancias químicas en cúmulos abiertos galácticos
- _Advisor: Dr. Ricardo Carrera (INAF-Osservatorio Astronomico di Padova)_
+ _Advisor: [Dr. Ricardo Carrera](https://sites.google.com/view/ricardocarrera/home) (INAF-Osservatorio Astronomico di Padova)_
 
 Los cúmulos abiertos son grupos de entre unos poco cientos a unas decenas de
 miles de estrellas ligadas gravitacionalmente localizadas en el disco Galáctico.
@@ -94,7 +98,9 @@ públicos de Gaia y de los diferentes cartografiados espectroscópicos
 complementarios, p.e. APOGEE, GES, etc, para este propósito. El estudiante
 adquirirá experiencia en el análisis de datos espectrocópicos así como en el
 manejo de grandes bases de datos, "big data" and técnicas estadísticas de
-aprendizaje automático, "machine learning". 
+aprendizaje automático, "machine learning".
+
+![M67]({{ site.urlimg }}M67_color_spectra.png)
 
 
 #### La época de Reionización vista con Illustris TNG
@@ -112,7 +118,7 @@ cuando se forma la estructura, se libera radiación ionizante que no nos permite
 capturar luz de este proceso con nuestros telescopios. Sin embargo, las
 simulaciones numéricas entran al rescate, y nos permite inferir detalles de esta
 etapa del Universo y predecir futuras observaciones que realizarán telescopios
-como JWST, VLT o LSST. 
+como JWST, VLT o LSST.
 
 Usaremos simulaciones y el pipeline de Illustris TNG para entender cómo se da la
 formación estelar, y los efectos tempranos de feedback durante la Reionización
@@ -188,7 +194,7 @@ atmosphere of Mars. In this project we are going to simulate planet mars inside
 stellar environments with different characteristics than the Sun in order to
 study the atmospheric interactions and evolution.
 
-#### Open clusters in the line of sight of the Galactic's bar far end 
+#### Open clusters in the line of sight of the Galactic's bar far end
 _Advisor: Prof. Karla Peña Ramírez (Universidad de Antofagasta)_
 
 Open clusters are the relics of the (sub)stellar formation processes. Their
@@ -214,8 +220,8 @@ _Advisor: Prof. José Gaite Cuesta (Universidad Politécnica de Madrid)_
 Empleo métodos de geometría fractal para describir la estructura cósmica y su
 origen. He evaluado los resultados de las simulaciones gravitatorias de
 N-cuerpos y las observaciones de la distribución de galaxias realizadas por
-Sloan Digital Sky Survey. Un problema pendiente es analizar las variaciones con la escala de las
-fluctuaciones de materia y de su velocidad. 
+Sloan Digital Sky Survey. Un problema pendiente es analizar las variaciones
+con la escala de las fluctuaciones de materia y de su velocidad.
 
 
 #### Líneas de emisión y morfología de galaxias simuladas en EAGLE
@@ -234,14 +240,16 @@ infrarrojo en galaxias que han sido simuladas en EAGLE. En trabajos recientes,
 se ha encontrado una relación causal entre las morfologías de las galaxias y la
 de los halos de materia oscura que las albergan. Sin embargo, la relación del
 medio interestelar a través de las líneas de emisión y la morfología de estas
-galaxias no es clara. 
+galaxias no es clara.
 
 Usaremos la base de datos de EAGLE para comprender si las luminosidades de las
 líneas de emisión tienen relación alguna con las estimaciones cinemáticas y
 morfológicas en EAGLE. Verificaremos qué componentes del medio interestelar
 están relacionados con los distintos tipos de galaxias que puedan generar las
 simulaciones. El uso de herramientas de aprendizaje automático (machine
-learning) puede ser una posibilidad para este estudio. 
+learning) puede ser una posibilidad para este estudio.
+
+![Eagle Galaxy]({{ site.urlimg }}eagle_galaxy.png)
 
 #### Identificación y caracterización de Wolf-Rayet (WR) en Galaxias HII
 _Advisor: Dr. David Fernandez Arenas (Instituto Nacional de Astrofísica Óptica y Electrónica)_
@@ -253,7 +261,7 @@ encontradas en galaxias irregulares y espirales. (e.g. Melnick Terlevich &
 Eggleton 1985, Terlevich et. al. 1981, Melnick et. al. 1988, Chávez et. al.
 2014, Fernández et. al. 2018.). Estas galaxias están caracterizadas por ser
 sistemas con bajas metalicidades, y podrían ser consideradas como análogos de
-las galaxias formadas en el Universo temprano. 
+las galaxias formadas en el Universo temprano.
 
 Por otra parte, se ha encontrado en algunos espectros de HIIGs características
 de Wolf-Rayet (WR) (la última etapa observable durante la evolución de estrellas
@@ -274,13 +282,11 @@ referencias en él) y por lo tanto  más datos son necesarios para mejorar las
 restricciones en los modelos y mejorar nuestro entendimiento sobre la formación
 estelar massiva.
 
-#### Identification of X-ray objects by resolving infrared sources: 
-_Advisor: Prof. Jose Joaquin Rodes Roca [https://blogs.ua.es/xragua/](https://blogs.ua.es/xragua/) (Universidad de Alicante)_ 
+#### Identification of X-ray objects by resolving infrared sources:
+_Advisor: Prof. Jose Joaquin Rodes Roca [https://blogs.ua.es/xragua/](https://blogs.ua.es/xragua/) (Universidad de Alicante)_
 
 ![x-ray sources]({{ site.urlimg }}xray_sources.jpeg "X-ray sources from Rodes-Roca et al. (2013) ")
 
 Infrared catalogues have different resolutions. By cross-correlating these,
 multiple identifications will be resolved and their possible X-ray companion
 searched for. Based on our work Rodes-Roca et al. (2013).
-
-
