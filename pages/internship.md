@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "RECA Summer Internship Program"
+title: "Internship en Astrofísica RECA"
 permalink: "/internship/"
 header:
     title: ""
@@ -9,7 +9,8 @@ header:
 
 
 ## Sobre el programa
-RECA Summer Internship Program es un programa de formación en investigación
+
+El Internship en Astrofísica RECA es un programa de formación en investigación
 científica en Astronomía, Astrofísica y Cosmología dirigido a estudiantes de
 instituciones colombianas. Durante un periodo de aproximadamente 10 semanas, los
 estudiantes desarrollarán un proyecto de investigación supervisado por
@@ -26,7 +27,7 @@ El programa sera virtual entre los meses de Mayo y Agosto del 2021.
 - Crear redes de colaboración entre los estudiantes e investigadores nacionales e internacionales.
 - Fortalecer las aptitudes de los estudiantes para competir en convocatorias de posgrado.
 - Fortalecer la colaboración interinstitucional entre miembros de la comunidad astronómica en Colombia y fuera del país.
-- Maxímizar el alcance de oportunidades de investigación a todo el territorio colombiano.)
+- Maxímizar el alcance de oportunidades de investigación a todo el territorio colombiano.
 
 
 ### Cronograma 2021
@@ -215,7 +216,7 @@ Pagina web del proyecto: [http://research.iac.es/proyecto/stripe82/](http://rese
 
 ![]({{ site.urlimg }}ngc3486WHT.png "Imagen a color de la galaxia NGC3486")
 
-#### Marte como exoplaneta
+#### Descargas electricas dentro de tormentas de polvo Marcianas.
 _Advisor: Dr. Leonardos Gkouvelis (NASA Αmes research center)_
 
 The NASA Ames Mars General Circulation Model (NASA-MGCM) is a 3D model of the
