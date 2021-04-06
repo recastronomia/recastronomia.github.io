@@ -21,7 +21,7 @@ nivel global.
 
 El programa sera virtual entre los meses de Mayo y Agosto del 2021.
 
-## Los objetivos de este programa son:
+### Los objetivos de este programa son:
 - Fomentar la investigación científica de estudiantes en formación en las áreas de Astronomía, Astrofísica y Cosmología.
 - Crear redes de colaboración entre los estudiantes e investigadores nacionales e internacionales.
 - Fortalecer las aptitudes de los estudiantes para competir en convocatorias de posgrado.
@@ -29,7 +29,33 @@ El programa sera virtual entre los meses de Mayo y Agosto del 2021.
 - Maxímizar el alcance de oportunidades de investigación a todo el territorio colombiano.)
 
 
-## Contacto:
+### Cronograma 2021
+El período propuesto para la primera edición de este programa de pasantías es el verano boreal de 2021. Las fechas son flexibles de común acuerdo entre el supervisor y el estudiante, pero la investigación tiene como objetivo ser completada en un rango de aproximadamente 10 semanas. Por lo tanto se espera dedicación completa a la investigación por parte del estudiante durante ese periodo.
+
+#### Presentación de resultados
+Se espera que el estudiante presente los resultados de la investigación en al menos uno de estos eventos:
+
+-Eventos nacionales (e.g. COCOA) o internacionales.
+-Grupo de investigación de la institución a la cual pertenece el/la supervisor/a
+-Seminarios de Universidades Colombianas.
+
+
+#### Disponibilidad de horas de observación
+Además de adquirir experiencia investigativa con sus supervisores, los estudiantes
+seleccionados tendrán la oportunidad de planear y hacer observaciones remotas
+con el telescopio de [un metro de La Silla del Observatorio Europeo Austral (ESO)]
+(https://www.eso.org/public/teles-instr/lasilla/1metre/),
+ubicado en el desierto de Atacama, Chile. Para esto los estudiantes recibirán el
+entrenamiento requerido para observar uno o varios objetos de interés para los
+participantes en el programa de internship durante algunas noches. El tiempo
+total de telescopio será determinado en común acuerdo con el
+Dr. Germán Chaparro (UdeA) quien muy amablemente ha garantizado el acceso a
+tiempo de telescopio para los estudiantes del RECA Summer Internship Program a
+través del convenio TUCAN-1 (Telescopio Universidad Católica del Norte y
+Universidad de Antioquia 1-m).
+
+
+### Contacto:
 
 Preguntas sobre el programa pueden ser dirigidas al coordinador del programa Dr. Luis
 Henry Quiroga a: lquiroga[at]nrao.edu.
@@ -48,7 +74,7 @@ postulación](https://docs.google.com/forms/d/e/1FAIpQLScURl4nesuCNXS7e0TUKYpTBr
 - La o el estudiante debe recidir en Colombia.
 - Tener disponibilidad de tiempo para realizar el proyecto de investigación durante los meses de Mayo y Agosto.
 
-## Proyectos de investigacion 2021:
+## Proyectos de investigación 2021:
 
 #### Probando la física fundamental de los agujeros negros primordiales como materia oscura, a la luz los conjuntos de datos cosmológicos más recientes
  _Advisor: [PhD(c) Alexander Bonilla Rivera](https://inspirehep.net/authors/1382083?ui-citation-summary=true) (Universidade Federal de Juiz de Fora)_
