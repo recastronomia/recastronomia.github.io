@@ -81,7 +81,7 @@ postulación](https://docs.google.com/forms/d/e/1FAIpQLScURl4nesuCNXS7e0TUKYpTBr
 
 ## Proyectos de investigación 2021:
 
-#### Probando la física fundamental de los agujeros negros primordiales como materia oscura, a la luz los conjuntos de datos cosmológicos más recientes
+#### 1. Probando la física fundamental de los agujeros negros primordiales como materia oscura, a la luz los conjuntos de datos cosmológicos más recientes
  _Supervisor: [PhD(c) Alexander Bonilla Rivera](https://inspirehep.net/authors/1382083?ui-citation-summary=true) (Universidade Federal de Juiz de Fora)_
 
 La evaporación de los agujeros negros primordiales (PBH) se considera
@@ -102,7 +102,7 @@ habilidades teóricas, computacionales y estadísticas a través de la manipulac
 
 
 
-#### Velocidades radiales y abundancias químicas en cúmulos abiertos galácticos
+#### 2. Velocidades radiales y abundancias químicas en cúmulos abiertos galácticos
  _Supervisor [Dr. Ricardo Carrera](https://sites.google.com/view/ricardocarrera/home) (INAF-Osservatorio Astronomico di Padova)_
 
 Los cúmulos abiertos son grupos de entre unos poco cientos a unas decenas de
@@ -137,7 +137,7 @@ aprendizaje automático, "machine learning".
 ![M67]({{ site.urlimg }}M67_color_spectra.png)
 
 
-#### La época de Reionización vista con Illustris TNG
+#### 3. La época de Reionización vista con Illustris TNG
 _Supervisora: Prof. Luz Ángela García (Universidad ECCI)_
 
 Diferentes simulaciones de alta resolución han mostrado que la presencia de
@@ -161,7 +161,7 @@ formación estelar, y los efectos tempranos de feedback durante la Reionización
 
 ![Illustris TNG simulation]({{ site.urlimg }}TNG.png "Illustris simulations. Credit image:https://www.tng-project.org")
 
-#### Caracterización de la evolución del enrojecimiento en las supernovas tipo Ia
+#### 4. Caracterización de la evolución del enrojecimiento en las supernovas tipo Ia
 _Supervisores: Dr. Santiago Gonzalez-Gaitán (CENTRA, Portugal),  Dra. Claudia P. Gutiérrez (UTU, Finland)_
 
 Las supernova tipo Ia (SNs Ia) son utilizadas como patrones lumínicos para medir
@@ -180,7 +180,7 @@ supernova. Los resultados serán muy importantes tanto para la comprensión fís
 de estos eventos, como para fines cosmológicos.
 
 
-#### Caracterización de los progenitores y explosión de las supernovas ricas en hidrógeno
+#### 5. Caracterización de los progenitores y explosión de las supernovas ricas en hidrógeno
 _Supervisores: Dra. Claudia P. Gutiérrez (UTU, Finland), Dr. Santiago Gonzalez-Gaitán (CENTRA, Portugal)_
 
 Las supernovas ricas en hidrógeno (SNs II) constituyen la muerte más frecuente
@@ -199,7 +199,7 @@ explosión). Todos los datos están disponibles para el análisis. Los resultado
 de este proyecto proveerán una mejor comprensión de la explosión y la
 composición de las estrellas progenitoras de las SNs II.
 
-#### El color de las galaxias
+#### 6. El color de las galaxias
 _Supervisor: Prof. Ignacio Trujillo (Instituto de Astrofisica de Canarias)_
 
 Cuando miramos las imágenes astronómicas en los medios de comunicación a menudo
@@ -220,7 +220,7 @@ Página web del proyecto: [http://research.iac.es/proyecto/stripe82/](http://res
 
 ![]({{ site.urlimg }}ngc3486WHT.png "Imagen a color de la galaxia NGC3486")
 
-#### Descargas electricas dentro de tormentas de polvo Marcianas.
+#### 7. Descargas electricas dentro de tormentas de polvo Marcianas.
 _Supervisor: Dr. Leonardos Gkouvelis (NASA Αmes research center)_
 
 The NASA Ames Mars General Circulation Model (NASA-MGCM) is a 3D model of the
@@ -228,7 +228,7 @@ atmosphere of Mars. In this project we are going to simulate planet mars inside
 stellar environments with different characteristics than the Sun in order to
 study the atmospheric interactions and evolution.
 
-#### Open clusters in the line of sight of the Galactic's bar far end
+#### 8. Open clusters in the line of sight of the Galactic's bar far end
 _Supervisora: Prof. Karla Peña Ramírez (Universidad de Antofagasta)_
 
 Open clusters are the relics of the (sub)stellar formation processes. Their
@@ -248,7 +248,7 @@ the Galactic's bar far end that has been previously tested to find open clusters
 at distances of the order of kpc.  
 
 
-#### Cosmología - Distribución de materia en el universo
+#### 9. Cosmología - Distribución de materia en el universo
 _Supervisor: Prof. José Gaite Cuesta (Universidad Politécnica de Madrid)_
 
 Empleo métodos de geometría fractal para describir la estructura cósmica y su
@@ -258,7 +258,7 @@ Sloan Digital Sky Survey. Un problema pendiente es analizar las variaciones
 con la escala de las fluctuaciones de materia y de su velocidad.
 
 
-#### Líneas de emisión y morfología de galaxias simuladas en EAGLE
+#### 10. Líneas de emisión y morfología de galaxias simuladas en EAGLE
 _Supervisor: PhD(c) [Andres Felipe Ramos Padilla](https://www.astro.rug.nl/~ramos/) (University of Groningen / SRON)_
 
 EAGLE es una simulación que pretende analizar la evolución y formación de
@@ -285,7 +285,7 @@ learning) puede ser una posibilidad para este estudio.
 
 ![Eagle Galaxy]({{ site.urlimg }}eagle_galaxy.png)
 
-#### Identificación y caracterización de Wolf-Rayet (WR) en Galaxias HII
+#### 11. Identificación y caracterización de Wolf-Rayet (WR) en Galaxias HII
 _Supervisor: Dr. David Fernandez Arenas (Instituto Nacional de Astrofísica Óptica y Electrónica)_
 
 Las galaxias HII (GHIIs) son sistemas ricos en gas, con propiedades observables
@@ -316,7 +316,7 @@ referencias en él) y por lo tanto  más datos son necesarios para mejorar las
 restricciones en los modelos y mejorar nuestro entendimiento sobre la formación
 estelar masiva.
 
-#### Identification of X-ray objects by resolving infrared sources:
+#### 12. Identification of X-ray objects by resolving infrared sources:
 _Supervisor: Prof. Jose Joaquin Rodes Roca [https://blogs.ua.es/xragua/](https://blogs.ua.es/xragua/) (Universidad de Alicante)_
 
 ![x-ray sources]({{ site.urlimg }}xray_sources.jpeg "X-ray sources from Rodes-Roca et al. (2013) ")
