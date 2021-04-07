@@ -59,7 +59,7 @@ Universidad de Antioquia 1-m).
 ### Contacto:
 
 Preguntas sobre el programa pueden ser dirigidas al coordinador del programa [Dr. Luis
-Henry Quiroga](https://lhquirogan.wixsite.com/lhquirogan) a: lquiroga[at]nrao.edu.
+Henry Quiroga](https://lhquirogan.wixsite.com/lhquirogan) a: lquiroga@nrao.edu.
 
 ## Solicitud de participación de estudiantes para el 2021:
 
