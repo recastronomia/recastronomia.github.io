@@ -36,9 +36,9 @@ El período propuesto para la primera edición de este programa de pasantías es
 #### Presentación de resultados
 Se espera que el estudiante presente los resultados de la investigación en al menos uno de estos eventos:
 
--Eventos nacionales (e.g. COCOA) o internacionales.
--Grupo de investigación de la institución a la cual pertenece el/la supervisor/a
--Seminarios de Universidades Colombianas.
+- Eventos nacionales (e.g. COCOA) o internacionales.
+- Grupo de investigación de la institución a la cual pertenece el/la supervisor/a
+- Seminarios de Universidades Colombianas.
 
 
 #### Disponibilidad de horas de observación
@@ -75,8 +75,7 @@ postulación](https://docs.google.com/forms/d/e/1FAIpQLScURl4nesuCNXS7e0TUKYpTBr
 
 - Estar en los últimos dos años del pregrado o licenciatura en física, astronomía o áreas afines.
 - Si la o el estudiante ya terminó el pregrado y no ha empezado una maestría es elegible para aplicar.
-- Estar en los últimos dos años del pregrado o licenciatura en física, astronomía o áreas afines.
-- La o el estudiante debe recidir en Colombia.
+- La o el estudiante debe residir en Colombia.
 - Tener disponibilidad de tiempo para realizar el proyecto de investigación durante los meses de Mayo y Agosto.
 
 ## Proyectos de investigación 2021:
@@ -200,7 +199,7 @@ de este proyecto proveerán una mejor comprensión de la explosión y la
 composición de las estrellas progenitoras de las SNs II.
 
 #### 6. El color de las galaxias
-_Supervisor: Prof. Ignacio Trujillo (Instituto de Astrofisica de Canarias)_
+_Supervisor: Dr. Ignacio Trujillo (Instituto de Astrofisica de Canarias)_
 
 Cuando miramos las imágenes astronómicas en los medios de comunicación a menudo
 vemos espectaculares fotos de galaxias en color. Pero, ¿cómo se construyen estas
@@ -223,10 +222,9 @@ Página web del proyecto: [http://research.iac.es/proyecto/stripe82/](http://res
 #### 7. Descargas electricas dentro de tormentas de polvo Marcianas.
 _Supervisor: Dr. Leonardos Gkouvelis (NASA Αmes research center)_
 
-The NASA Ames Mars General Circulation Model (NASA-MGCM) is a 3D model of the
-atmosphere of Mars. In this project we are going to simulate planet mars inside
-stellar environments with different characteristics than the Sun in order to
-study the atmospheric interactions and evolution.
+El modelo "NASA Ames Mars General Circulation Model (NASA-MGCM)" es un modelo 3D de la atmósfera de Marte. Tormentas de polvo suceden frecuentemente provenientes del desierto frío de Marte, en ocasiones pueden ocurrir en todo el planeta. En este proyecto vamos a usar simulaciones de varias tormentas de polvo en diferentes escenarios y vamos a calcular la probabilidad de generar campos eléctricos, descargas eléctricas y evaluar los peligros que estas puedan tener en la exploración humana en el planeta.  
+
+![]({{ site.urlimg }}mars_project.jpg "")
 
 #### 8. Open clusters in the line of sight of the Galactic's bar far end
 _Supervisora: Prof. Karla Peña Ramírez (Universidad de Antofagasta)_
@@ -249,7 +247,7 @@ at distances of the order of kpc.
 
 
 #### 9. Cosmología - Distribución de materia en el universo
-_Supervisor: Prof. José Gaite Cuesta (Universidad Politécnica de Madrid)_
+_Supervisor: Dr. José Gaite Cuesta (Universidad Politécnica de Madrid)_
 
 Empleo métodos de geometría fractal para describir la estructura cósmica y su
 origen. He evaluado los resultados de las simulaciones gravitatorias de
