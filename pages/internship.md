@@ -161,7 +161,7 @@ formación estelar, y los efectos tempranos de feedback durante la Reionización
 ![Illustris TNG simulation]({{ site.urlimg }}TNG.png "Illustris simulations. Credit image:https://www.tng-project.org")
 
 #### 4. Caracterización de la evolución del enrojecimiento en las supernovas tipo Ia
-_Supervisores: Dr. Santiago Gonzalez-Gaitán (CENTRA, Portugal),  Dra. Claudia P. Gutiérrez (UTU, Finland)_
+_Supervisores: [Dr. Santiago Gonzalez-Gaitán (CENTRA, Portugal)](https://www.cienciavitae.pt/portal/FB18-198F-3586),  [Dra. Claudia P. Gutiérrez (UTU, Finland)]( https://orcid.org/0000-0003-2375-2064)_
 
 Las supernova tipo Ia (SNs Ia) son utilizadas como patrones lumínicos para medir
 distancias en cosmología. Sin embargo, una de las principales incógnitas que
@@ -178,9 +178,11 @@ para obtener el enrojecimiento en diferentes fases de la evolución de la
 supernova. Los resultados serán muy importantes tanto para la comprensión física
 de estos eventos, como para fines cosmológicos.
 
+![]({{ site.urlimg }}sn_ext.jpg)
+
 
 #### 5. Caracterización de los progenitores y explosión de las supernovas ricas en hidrógeno
-_Supervisores: Dra. Claudia P. Gutiérrez (UTU, Finland), Dr. Santiago Gonzalez-Gaitán (CENTRA, Portugal)_
+_Supervisores: [Dra. Claudia P. Gutiérrez (UTU, Finland)]( https://orcid.org/0000-0003-2375-2064), [Dr. Santiago Gonzalez-Gaitán (CENTRA, Portugal)](https://www.cienciavitae.pt/portal/FB18-198F-3586)_
 
 Las supernovas ricas en hidrógeno (SNs II) constituyen la muerte más frecuente
 de las estrellas masivas. A pesar de ser tan estudiadas, la importancia de
@@ -197,6 +199,9 @@ como la contribución del níquel radioactivo (y la mezcla de este durante la
 explosión). Todos los datos están disponibles para el análisis. Los resultados
 de este proyecto proveerán una mejor comprensión de la explosión y la
 composición de las estrellas progenitoras de las SNs II.
+
+![]({{ site.urlimg }}gif_project5.mp4)
+
 
 #### 6. El color de las galaxias
 _Supervisor: Dr. Ignacio Trujillo (Instituto de Astrofisica de Canarias)_
@@ -314,7 +319,7 @@ restricciones en los modelos y mejorar nuestro entendimiento sobre la formación
 estelar masiva.
 
 #### 12. Identificación de objetos de rayos-x mediante la resolución de fuentes infrarrojas:
-_Supervisor: Prof. Jose Joaquin Rodes Roca [https://blogs.ua.es/xragua/](https://blogs.ua.es/xragua/) (Universidad de Alicante)_
+_Supervisor: Prof. José Joaquín Rodes Roca [https://blogs.ua.es/xragua/](https://blogs.ua.es/xragua/) (Universidad de Alicante)_
 
 
 Los catálogos en infrarrojo tienen diferentes resoluciones. Mediante la
