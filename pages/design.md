@@ -4,7 +4,7 @@ show_meta: false
 title: "Style your content!"
 subheadline: "And documentation"
 header:
-   image_fullwidth: "header.png"
+     image_fullwidth: "header.png"
 permalink: "/design/"
 ---
 

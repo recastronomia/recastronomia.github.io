@@ -200,7 +200,11 @@ explosión). Todos los datos están disponibles para el análisis. Los resultado
 de este proyecto proveerán una mejor comprensión de la explosión y la
 composición de las estrellas progenitoras de las SNs II.
 
-![]({{ site.urlimg }}gif_project5.mp4)
+<video width="320" height="240" controls>
+  <source src="../imgaes/gif_project5.mp4" type="video/mp4">
+</video>
+
+
 
 
 #### 6. El color de las galaxias
