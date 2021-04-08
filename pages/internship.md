@@ -200,7 +200,7 @@ explosión). Todos los datos están disponibles para el análisis. Los resultado
 de este proyecto proveerán una mejor comprensión de la explosión y la
 composición de las estrellas progenitoras de las SNs II.
 
-<video width="320" height="240" controls>
+<video width="640" height="480" controls>
   <source src="../images/gif_project5.mp4" type="video/mp4">
 </video>
 
