@@ -253,6 +253,9 @@ nos ayudan a comprender las diferentes etapas que viven las estrellas y
     cúmulos abiertos cercanos con una población de baja masa no revelada por
     estudios ópticos.
 
+![]({{ site.urlimg }}Anais.png)
+
+"Particionado basado en sobredensidades en el área de interés. Se reporta el nombre y la ubicación espacial de los cúmulos reportados en el área sobre una imagen compuesta JHK del relevamiento VVV. Figura modificada de la tesis de Maestría de Jorge Anaís."
 
 #### 9. Cosmología - Distribución de materia en el universo
 _Supervisor: Dr. José Gaite Cuesta (Universidad Politécnica de Madrid)_
