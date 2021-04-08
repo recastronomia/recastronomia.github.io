@@ -137,7 +137,7 @@ aprendizaje automático, "machine learning".
 
 
 #### 3. La época de Reionización vista con Illustris TNG
-_Supervisora: Prof. Luz Ángela García (Universidad ECCI)_
+_Supervisora: Dra. Luz Ángela García (Universidad ECCI)_
 
 Diferentes simulaciones de alta resolución han mostrado que la presencia de
 materia bariónica en las configuraciones no sólo genera formación estelar (y
@@ -236,7 +236,7 @@ El modelo "NASA Ames Mars General Circulation Model (NASA-MGCM)" es un modelo 3D
 ![]({{ site.urlimg }}mars_project.jpg)
 
 #### 8. Cúmulos abiertos en la línea de visión del extremo lejano de la barra galáctica
-_Supervisora: Prof. Karla Peña Ramírez (Universidad de Antofagasta)_
+_Supervisora: [Dra. Karla Peña Ramírez (Universidad de Antofagasta)](https://www.astro.uantof.cl/nosotros/equipo-de-trabajo/karla-pena-ramirez/)_
 
 Los cúmulos abiertos son reliquias de los procesos de formación (sub)estelar.
 Su ubicación, edad, masa total, estado dinámico, metalicidad, entre otros,
@@ -323,7 +323,7 @@ restricciones en los modelos y mejorar nuestro entendimiento sobre la formación
 estelar masiva.
 
 #### 12. Identificación de objetos de rayos-x mediante la resolución de fuentes infrarrojas:
-_Supervisor: Prof. José Joaquín Rodes Roca [https://blogs.ua.es/xragua/](https://blogs.ua.es/xragua/) (Universidad de Alicante)_
+_Supervisor: Dr. José Joaquín Rodes Roca [https://blogs.ua.es/xragua/](https://blogs.ua.es/xragua/) (Universidad de Alicante)_
 
 
 Los catálogos en infrarrojo tienen diferentes resoluciones. Mediante la
