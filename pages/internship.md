@@ -224,26 +224,25 @@ _Supervisor: Dr. Leonardos Gkouvelis (NASA Αmes research center)_
 
 El modelo "NASA Ames Mars General Circulation Model (NASA-MGCM)" es un modelo 3D de la atmósfera de Marte. Tormentas de polvo suceden frecuentemente provenientes del desierto frío de Marte, en ocasiones pueden ocurrir en todo el planeta. En este proyecto vamos a usar simulaciones de varias tormentas de polvo en diferentes escenarios y vamos a calcular la probabilidad de generar campos eléctricos, descargas eléctricas y evaluar los peligros que estas puedan tener en la exploración humana en el planeta.  
 
-![]({{ site.urlimg }}mars_project.jpg "")
+![]({{ site.urlimg }}mars_project.jpg)
 
-#### 8. Open clusters in the line of sight of the Galactic's bar far end
+#### 8. Cúmulos abiertos en la línea de visión del extremo lejano de la barra galáctica
 _Supervisora: Prof. Karla Peña Ramírez (Universidad de Antofagasta)_
 
-Open clusters are the relics of the (sub)stellar formation processes. Their
-location, age,  total mass, dynamical state, metallicity, among others, help us
-to understand the different stages that live stars and low mass sources either
-as individual sources or as members of a larger conglomerate. They also allow us
-to map our Galaxy as tracers of its components.
-In this project, the student would have access to a multidimensional catalog of
-sources located in the line of sight of the Galactic's bar far end. The catalog
-has been successfully analyzed with unsupervised machine learning techniques
-tuned to find open clusters at distances of kpc order. The student's primary
-task would be to sweep the data-set in position, infrared colors, and proper
-motions parameter space to identify closer open clusters with an unveiled
-low-mass population by optical studies.  this project the student would have
-access to a multidimensional catalog of sources located in the line of sight of
-the Galactic's bar far end that has been previously tested to find open clusters
-at distances of the order of kpc.  
+Los cúmulos abiertos son reliquias de los procesos de formación (sub)estelar.
+Su ubicación, edad, masa total, estado dinámico, metalicidad, entre otros,
+nos ayudan a comprender las diferentes etapas que viven las estrellas y
+ las fuentes de baja masa, ya sea como fuentes individuales o como miembros de
+ un conglomerado mayor. También nos ayudan a mapear nuestra galaxia como trazadores
+  de sus componentes. En este proyecto, el estudiante tendría acceso a un catálogo
+  multidimensional de fuentes ubicadas en la línea de visión del extremo lejano
+   de la barra galáctica. El catálogo ha sido exitosamente analizado con técnicas
+   de machine learning no supervisado ajustadas para encontrar cúmulos abiertos
+   a distancias del orden de kiloparsecs. La tarea principal del estudiante
+   sería realizar un barrido del conjunto de datos en el espacio de parámetros,
+   en posición, colores infrarrojos, y movimientos propios, para identificar
+    cúmulos abiertos cercanos con una población de baja masa no revelada por
+    estudios ópticos.
 
 
 #### 9. Cosmología - Distribución de materia en el universo
@@ -314,11 +313,13 @@ referencias en él) y por lo tanto  más datos son necesarios para mejorar las
 restricciones en los modelos y mejorar nuestro entendimiento sobre la formación
 estelar masiva.
 
-#### 12. Identification of X-ray objects by resolving infrared sources:
+#### 12. Identificación de objetos de rayos-x mediante la resolución de fuentes infrarrojas:
 _Supervisor: Prof. Jose Joaquin Rodes Roca [https://blogs.ua.es/xragua/](https://blogs.ua.es/xragua/) (Universidad de Alicante)_
 
-![x-ray sources]({{ site.urlimg }}xray_sources.jpeg "X-ray sources from Rodes-Roca et al. (2013) ")
 
-Infrared catalogues have different resolutions. By cross-correlating these,
-multiple identifications will be resolved and their possible X-ray companion
-searched for. Based on our work Rodes-Roca et al. (2013).
+Los catálogos en infrarrojo tienen diferentes resoluciones. Mediante la
+correlación cruzada de estos, se resolverán múltiples identificaciones y se
+buscará un posible compañero en rayos X. Basado en nuestro trabajo Rodes-Roca
+et al. (2013)
+
+![x-ray sources]({{ site.urlimg }}xray_sources.jpeg "X-ray sources from Rodes-Roca et al. (2013) ")
