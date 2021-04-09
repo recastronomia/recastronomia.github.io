@@ -22,6 +22,9 @@ nivel global.
 
 El programa sera virtual entre los meses de Mayo y Agosto del 2021.
 
+## Fecha limite para postularse Abril 31. [Formulario de postulación:](https://docs.google.com/forms/d/e/1FAIpQLScURl4nesuCNXS7e0TUKYpTBrVkcnwGlCZlNDCb5GVWsuwYzQ/viewform).
+
+
 ### Los objetivos de este programa son:
 - Fomentar la investigación científica de estudiantes en formación en las áreas de Astronomía, Astrofísica y Cosmología.
 - Crear redes de colaboración entre los estudiantes e investigadores nacionales e internacionales.
