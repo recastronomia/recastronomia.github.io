@@ -47,7 +47,7 @@ Se espera que el estudiante presente los resultados de la investigación en al m
 #### Disponibilidad de horas de observación
 
 Además de adquirir experiencia investigativa con sus supervisores, los estudiantes
-seleccionados tendrán la oportunidad de planear y hacer observaciones remotas
+seleccionados podrán tener la oportunidad de planear y hacer observaciones remotas
 con el telescopio de [un metro de La Silla del Observatorio Europeo Austral (ESO)](https://www.eso.org/public/teles-instr/lasilla/1metre/),
 ubicado en el desierto de Atacama, Chile. Para esto los estudiantes recibirán el
 entrenamiento requerido para observar uno o varios objetos de interés para los
