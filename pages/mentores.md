@@ -17,6 +17,8 @@ En esta página encontrarás todo lo relacionado a nuestro programa de mentores.
 
 [Sobre Nuestro programa](https://recastronomia.github.io/mentores/programa/)
 
+[Equipo de mentores](https://recastronomia.github.io/mentores/mentor/)
+
 [Preguntas Frecuentes](https://recastronomia.github.io/mentores/preguntas/)
 
 [Paneles del programa 2020-2021](https://recastronomia.github.io/mentores/paneles/)
