@@ -338,3 +338,41 @@ buscará un posible compañero en rayos X. Basado en nuestro trabajo Rodes-Roca
 et al. (2013)
 
 ![x-ray sources]({{ site.urlimg }}xray_sources.jpeg "X-ray sources from Rodes-Roca et al. (2013) ")
+
+
+#### 13. Buscando nubes en enanas marrones T:
+_Supervisora: Dra. Elena Manjavacas [https://elenamanjavacas.com](https://elenamanjavacas.com) (STScI)_
+
+Las enanas marrones son objetos substelares que no alcanzan suficiente
+ masa como para empezar la fusión de hidrógeno en sus núcleos. Debido
+ a ello, estos objetos se enfrían con el tiempo desde que nacen,
+ evolucionando a su vez en tipo espectral según van perdiendo su calor
+ inicial, desde el tipo espectral L (2600-1100 K), al T (1100-600 K) y
+ al Y (500 K >). Las enanas marrones tienen temperaturas efectivas
+ parecidas a de algunos exoplanetas, sin embargo, las enanas marrones
+ se encuentran en general aisladas, siendo técnicamente más fáciles de
+ estudiar. A la vez que éstas se enfrían y evolucionan en tipo
+ espectral, también cambia la composición de sus atmósferas: las
+ enanas marrones tipo L tienen capas anchas de nubes de silicatos,
+ mientras en las enanas T estas nubes prácticamente desaparecen en
+ capas más profundas de sus fotosferas. Además, las enanas marrones
+ tienen periodos de rotación muy rápidos, de hasta unas 24 hr, y estas
+ nubes evolucionan con el periodo de rotación de las enanas marrones
+ formando bandas y manchas similares a las de los planetas gaseosos
+ del Sistema Solar. La evolución de los patrones de nubes en estos
+ objetos, producen una variabilidad fotométrica y espectro-fotométrica
+ que es detectable desde la Tierra. Esta variabilidad nos proporciona
+ información muy valiosa sobre las atmósferas de estos objetos, sin
+ embargo, no todas las enanas marrones son variables, y hasta ahora no
+ hay un método sistemático para detectarlas, siendo por tanto su
+ búsqueda totalmente a ciegas. En este proyecto, el/la estudiante
+ tendrá como objetivo final de desarrollar un método para detectar
+ enanas marrones T variables con un único espectro. Para ello, tendrá
+ que analizar espectros públicos de HST/WFC3 de dos enanas marrones
+ tipo T variables para determinar qué características espectrales
+ muestran evolución con el tiempo. Una vez determinadas estas
+ características espectrales, diseñaremos unos índices espectrales que
+ nos permitan encontrarlas en otros espectros de enanas marrones T, y
+ así crear una lista de enanas marrones T candidatas a ser variables.
+
+![Enana Marron]({{ site.urlimg }}enana_marron.gif)
