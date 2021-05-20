@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Internship en Astrofísica RECA"
+title: "RECA Internship Program"
 permalink: "/internship/"
 header:
     title: ""
@@ -10,7 +10,7 @@ header:
 
 ## Sobre el programa
 
-El Internship en Astrofísica RECA es un programa de formación en investigación
+El RECA Internship program en Astrofísica es un programa de formación en investigación
 científica en Astronomía, Astrofísica y Cosmología dirigido a estudiantes de
 instituciones colombianas. Durante un periodo de aproximadamente 10 semanas, los
 estudiantes desarrollarán un proyecto de investigación supervisado por
