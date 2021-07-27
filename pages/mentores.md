@@ -27,27 +27,30 @@ en formación con astrónomos avanzados en sus carreras (mentores) quienes van a
  - Reciban consejos sobre cómo adaptarse a un nuevo país.
  - Reciban consejos sobre cómo adaptarse a la vida académica como estudiante de posgrado.
 
-
 # Mentores:
 
 Las y los mentores del programa son astrónomos profesionales. Aquí puedes ver más detalles sobre el [equipo de mentores](https://recastronomia.github.io/mentores/mentor/) y como
 ser parte del equipo.
 
 # Paneles:
-A lo largo del programa hemos ido recopilando información y experiencias de varios astrónomos y astrónomas. Estos los hemos grabado en diferentes [paneles que puedes ver aqui:](https://recastronomia.github.io/mentores/paneles/)
+A lo largo del programa hemos ido recopilando información y experiencias de varios astrónomos y astrónomas. Estos los hemos grabado en diferentes [paneles que puedes ver aqui](https://recastronomia.github.io/mentores/paneles/)
 
-Adicionalmente hemos recopilado información sobre escuelas de verano en astronomía y
-programas de posgrados.
+Adicionalmente hemos recopilado información sobre [escuelas de verano en astronomía](https://docs.google.com/spreadsheets/d/16fJdBhZo8Oee1-DCmIYh2mjsjARFQWoKVc3Q7eAVabo/edit?usp=sharing), [pasantías de investigación](https://docs.google.com/spreadsheets/d/1H4xVVfJRN2qfu21HDYWDCkN8AP5hD8Ys2PlHoF-LS5Q/edit?usp=sharing) y [programas de posgrados](https://docs.google.com/spreadsheets/d/1ET0BCExYFM9NJHi8GBhcX1dhGKqvMD0SChgSyj4IF2Y/edit?usp=sharing).
 
 # Únete a nuestro programa
 
-*Estudiantes:* Si eres estudiante de pregrado en colombia en  astronomía o áreas afines y estás considerando
+**Estudiantes:** Si eres estudiante de pregrado en colombia en  astronomía o áreas afines y estás considerando
 en ser un astrónomo/a y quieres tener más información de la carrera unete.
 
 
-*Mentores*: Si eres astronomo/a y quieres ser parte de nuestra comunidad de mentores no dudes
+**Mentores**: Si eres astronomo/a y quieres ser parte de nuestra comunidad de mentores no dudes
 en ser parte del nuestro equipo. Puedes llenar el siguiente formulario o escribirnos
-un correo a: reca.astronomia@gmail.com
+un correo a: *reca.astronomia@gmail.com*
+
+# Duracion del programa y convocatoria 2021-2022
+
+El programa tiene como duracion seis meses empezando el 23 de Agosto del 2021. Al finalizar este periodo el estudiante tiene la opción de continuar en el programa y también podrá cambiar de mentor si así lo desea.
+
 
 # Preguntas Frecuentes:
 
@@ -60,7 +63,7 @@ reca.astronmia@gmail.com y no olvides en revisar nuestra sección de
 
 El comité del programa 2021-2022 está conformado por:
 
-<div class="row t40">
+<div class="row t25">
 
     <div class="medium-4 columns">
         <img src="{{ site.urlimg }}ngc.jpg" alt="">
@@ -82,7 +85,7 @@ El comité del programa 2021-2022 está conformado por:
     </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
 
-<div class="row t40">
+<div class="row t25">
 
 <div class="medium-4 columns">
     <img src="{{ site.urlimg }}person.png" alt="">
@@ -100,7 +103,6 @@ El comité del programa 2021-2022 está conformado por:
 </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
 
-</div><!-- /.row -->
 
 ### Comité 2020-2021:
 
@@ -113,7 +115,7 @@ El comité del programa 2021-2022 está conformado por:
 
     <div class="medium-4 columns">
           <img src="{{ site.urlimg }}/mentores/aca.jpg" alt="">
-          <p><a href="https://alejandroc137.bitbucket.io">Dr. Alejandro Cárdenas Avendaño, University of Illinois Urbana-Champain</a></p>
+          <p><a href="https://alejandroc137.bitbucket.io">Dr. Alejandro Cárdenas Avendaño, Gravity Institute, Universidad de Princeton </a></p>
       </div><!-- /.medium-4.columns -->
 
       <div class="medium-4 columns">
@@ -153,5 +155,3 @@ El comité del programa 2021-2022 está conformado por:
           <p>Malory Agudelo, estudiante, Universidad de Antioquia</p>
       </div><!-- /.medium-4.columns -->
   </div><!-- /.row -->
-
-</div><!-- /.row -->
