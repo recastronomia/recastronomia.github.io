@@ -65,26 +65,30 @@ El comité del programa 2021-2022 está conformado por:
 <div class="row t25">
 
     <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}ngc.jpg" alt="">
-        <p><a href="https://jngaravitoc.github.io/Garavito-Camargo/">Coordinador del programa: Nicolas Garavito Camargo, Ph.D. Candidate, U. Arizona</a></p>
-    </div><!-- /.medium-4.columns -->
-    <div class="medium-4 columns">
         <img src="{{ site.urlimg }}/mentores/mav.jpeg" alt="">
         <p>Malory Agudelo, estudiante de astronomía, Universidad de Antioquia</p>
     </div><!-- /.medium-4.columns -->
 
   <div class="medium-4 columns">
         <img src="{{ site.urlimg }}person.ong" alt="">
-        <p><a href="">Dra. Claudia Gutiérrez, Unviersidad </a></p>
-    </div><!-- /.medium-4.columns -->
+        <p><a>Dra. Claudia Gutiérrez, Universidad de Southampton </a></p>
+  </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns">
         <img src="{{ site.urlimg }}person.png" alt="">
-        <p>Dra. Luisa Cardona </p>
+        <p>Dra. Luisa Cardona, INAOE, Puebla, Mexico </p>
     </div><!-- /.medium-4.columns -->
+
+
 </div><!-- /.row -->
 
 <div class="row t25">
+
+    <div class="medium-4 columns">
+        <img src="{{ site.urlimg }}person.png" alt="">
+        <p><a> Mariana Villamil, estudiante de física y geociencias, Universidad de los Andes </a></p>
+    </div><!-- /.medium-4.columns -->
+
 
 <div class="medium-4 columns">
     <img src="{{ site.urlimg }}person.png" alt="">
@@ -95,11 +99,16 @@ El comité del programa 2021-2022 está conformado por:
     <img src="{{ site.urlimg }}person.png" alt="">
     <p>Ph.D.(c) John Suarez, Universidad de los Andes, Bogotá, Colombia</p>
 </div><!-- /.medium-4.columns -->
+</div><!-- /.row -->
+
+<div class="row t25">
 
 <div class="medium-4 columns">
-    <img src="{{ site.urlimg }}person.png" alt="">
-    <p><a> Mariana Villamil,  estudiante de física y geociencias, Universidad de los Andes </a></p>
+    <img src="{{ site.urlimg }}ngc.jpg" alt="">
+    <p><a href="https://jngaravitoc.github.io/Garavito-Camargo/">Coordinador del programa: Nicolas Garavito Camargo, Ph.D. Candidate, U. Arizona</a></p>
 </div><!-- /.medium-4.columns -->
+
+
 </div><!-- /.row -->
 
 
