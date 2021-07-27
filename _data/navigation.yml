@@ -32,18 +32,18 @@
   url: "/mentores/"
   side: left
   dropdown:
-  - title: "Sobre el programa"
-    url: "/mentores/programa/"
-  - title: "Preguntas frecuentes"
-    url: "/mentores/preguntas/"
+  - title: "Convocatoria 2021-2022"
+    url: "/mentores/mentorado/"
   - title: "Equipo de mentores"
     url: "/mentores/mentor/"
-  - title: "Convocatoria a mentorizados"
-    url: "/mentores/mentorado/"
   - title: "Paneles"
     url: "/mentores/paneles/"
-  - title: "Comite Organizador"
-    url: "/mentores/comite/"
+  - title: "Preguntas frecuentes"
+    url: "/mentores/preguntas/"
+  - title: "Estadisticas y resultados"
+    url: "/mentores/resultados/"
+
+
 
 
 - title: "Internship"

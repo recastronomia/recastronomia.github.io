@@ -40,11 +40,10 @@ Adicionalmente hemos recopilado información sobre [escuelas de verano en astron
 # Únete a nuestro programa
 
 **Estudiantes:** Si eres estudiante de pregrado en colombia en  astronomía o áreas afines y estás considerando
-en ser un astrónomo/a y quieres tener más información de la carrera unete.
+en ser un astrónomo/a y quieres tener más información de la carrera [unete a nustro programa](https://recastronomia.github.io/mentores/convocatoria/).
 
 
-**Mentores**: Si eres astronomo/a y quieres ser parte de nuestra comunidad de mentores no dudes
-en ser parte del nuestro equipo. Puedes llenar el siguiente formulario o escribirnos
+**Mentores**: Si eres astronomo/a y quieres ser parte de nuestra comunidad de mentores no dudes en ser parte del nuestro equipo. Puedes llenar el siguiente [formulario](https://recastronomia.github.io/mentores/convocatoria/) o escribirnos
 un correo a: *reca.astronomia@gmail.com*
 
 # Duracion del programa y convocatoria 2021-2022
@@ -119,7 +118,7 @@ El comité del programa 2021-2022 está conformado por:
       </div><!-- /.medium-4.columns -->
 
       <div class="medium-4 columns">
-          <img src="{{ site.urlimg }}person.png" alt="">
+          <img src="{{ site.urlimg }}sd.png" alt="">
           <p>PhD(c) Saida Diaz, PhD student, Albert Ludwig University of Freiburg</p>
       </div><!-- /.medium-4.columns -->
   </div><!-- /.row -->
