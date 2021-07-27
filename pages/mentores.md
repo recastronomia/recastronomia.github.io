@@ -70,7 +70,7 @@ El comité del programa 2021-2022 está conformado por:
     </div><!-- /.medium-4.columns -->
 
   <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}person.ong" alt="">
+        <img src="{{ site.urlimg }}person.png" alt="">
         <p><a>Dra. Claudia Gutiérrez, Universidad de Southampton </a></p>
   </div><!-- /.medium-4.columns -->
 
