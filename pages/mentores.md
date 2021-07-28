@@ -40,10 +40,10 @@ Adicionalmente hemos recopilado información sobre [escuelas de verano en astron
 ## Únete a nuestro programa
 
 **Estudiantes:** Si eres estudiante de pregrado en colombia en  astronomía o áreas afines y estás considerando
-en ser un astrónomo/a y quieres tener más información de la carrera [unete a nustro programa](https://recastronomia.github.io/mentores/convocatoria/).
+en ser un astrónomo/a y quieres tener más información de la carrera [unete a nuestro programa](https://recastronomia.github.io/mentores/convocatoria/).
 
 
-**Mentores**: Si eres astronomo/a y quieres ser parte de nuestra comunidad de mentores no dudes en ser parte del nuestro equipo. Puedes llenar el siguiente [formulario](https://recastronomia.github.io/mentores/convocatoria/) o escribirnos
+**Mentores**: Si eres astrónomo/a y quieres ser parte de nuestra comunidad de mentores no dudes en ser parte de nuestro equipo. Puedes llenar el siguiente [formulario](https://recastronomia.github.io/mentores/convocatoria/) o escribirnos
 un correo a: *reca.astronomia@gmail.com*
 
 ## Duracion del programa y convocatoria 2021-2022
@@ -70,8 +70,8 @@ El comité del programa 2021-2022 está conformado por:
     </div><!-- /.medium-4.columns -->
 
   <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}person.png" alt="">
-        <p><a>Dra. Claudia Gutiérrez, Universidad de Southampton </a></p>
+        <img src="{{ site.urlimg }}/mentores/cg.jpeg" alt="">
+        <p>Dra. Claudia Gutiérrez, Universidad de Turku, Finlandia </p>
   </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns">
@@ -86,18 +86,18 @@ El comité del programa 2021-2022 está conformado por:
 
     <div class="medium-4 columns">
         <img src="{{ site.urlimg }}person.png" alt="">
-        <p><a> Mariana Villamil, estudiante de física y geociencias, Universidad de los Andes </a></p>
+        <p> Mariana Villamil, estudiante de física y geociencias, Universidad de los Andes </p>
     </div><!-- /.medium-4.columns -->
 
 
 <div class="medium-4 columns">
     <img src="{{ site.urlimg }}person.png" alt="">
-    <p><a> Dr. David Fernandez, INAOE, Puebla, Mexico</a></p>
+    <p>Dr. David Fernandez, INAOE, Puebla, Mexico</p>
 </div><!-- /.medium-4.columns -->
 
 <div class="medium-4 columns">
-    <img src="{{ site.urlimg }}person.png" alt="">
-    <p>Ph.D.(c) John Suarez, Universidad de los Andes, Bogotá, Colombia</p>
+    <img src="{{ site.urlimg }}/mentores/jfsp.png" alt="">
+    <p><a href="https://jsuarez314.gitlab.io/"> Ph.D.(c) John Suárez-Pérez, Universidad de los Andes, Bogotá, Colombia</a></p>
 </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
 
