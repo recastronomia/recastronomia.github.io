@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Convocatoria mentorizados"
+title: "Convocatoria mentores y mentorados"
 breadcrumb: true
 categories:
     - mentores
@@ -11,7 +11,7 @@ header:
 ---
 
 
-Las convocatorias para ser mentorizada/o se hacen una vez al año entre los meses de Mayo y Agosto.
+Las convocatorias para ser mentorada/o se hacen una vez al año entre los meses de Mayo y Agosto.
 Sin embargo, estamos encantados de recibir mentorizados interesados en ser parte del
 programa en cualquier momento del año. Para esto, escríbenos a reca.astronomia@gmail.com o contacta a
 cualquier persona del [comité organizador](../comite/) por
