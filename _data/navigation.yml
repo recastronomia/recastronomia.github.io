@@ -33,7 +33,7 @@
   side: left
   dropdown:
   - title: "Convocatoria 2021-2022"
-    url: "/mentores/mentorado/"
+    url: "/mentores/convocatoria/"
   - title: "Equipo de mentores"
     url: "/mentores/mentor/"
   - title: "Paneles"
