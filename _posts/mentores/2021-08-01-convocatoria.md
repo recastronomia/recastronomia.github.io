@@ -14,13 +14,13 @@ header:
 
 La Red de Estudiantes Colombianos de Astronomía, RECA, invita a todas las personas de la comunidad a ser parte del programa RECA MENTORES 2021-2022. Esta convocatoria es para mentores y estudiantes. El programa está enfocado en personas interesadas en postular a estudios de posgrado en astronomía, astrofísica, cosmología y ciencias afines en Colombia o en el exterior. El programa está diseñado para que las/los estudiantes:
 
-   Aprendan sobre qué oportunidades tienen para hacer posgrados tanto en Colombia como en el exterior.
-   Completen y tengan asesoría preparando los materiales de la aplicación (GRE, TOEFL, CV, carta de motivación etc…)
-   Reciban asesoría para escoger universidades que se ajusten al perfil y sus intereses con un/a mentor/a
-   Reciban información sobre becas y formas de financiación en Colombia y en el exterior.
-   Reciban consejos sobre cómo adaptarse a la vida académica como estudiante de posgrado.
-   Reciban consejos sobre cómo adaptarse a un nuevo país.
-   Asesoría para proyectar sus trayectoria como astrónomas/os.
+   * Aprendan sobre qué oportunidades tienen para hacer posgrados tanto en Colombia como en el exterior.
+   * Completen y tengan asesoría preparando los materiales de la aplicación (GRE, TOEFL, CV, carta de motivación etc…)
+   * Reciban asesoría para escoger universidades que se ajusten al perfil y sus intereses con un/a mentor/a
+   * Reciban información sobre becas y formas de financiación en Colombia y en el exterior.
+   * Reciban consejos sobre cómo adaptarse a la vida académica como estudiante de posgrado.
+   * Reciban consejos sobre cómo adaptarse a un nuevo país.
+   * Asesoría para proyectar sus trayectoria como astrónomas/os.
 
 El programa estará enfocado en estudiantes que estén en las siguientes etapas de su formación:
    1. Estudiantes aplicando a posgrados: Estudiantes que estén considerando postular a posgrados en astronomía (maestrías o doctorados) este o el siguiente año. Que estén interesados/interesadas en planear y fortalecer sus postulaciones con la asesoría de un/a mentor/a profesional en astronomía que se les asignará. 
