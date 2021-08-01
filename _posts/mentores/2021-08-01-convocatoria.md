@@ -55,7 +55,7 @@ Postulación: Llenar el [formulario de postulación](https://forms.gle/fyrLTw6mL
 
 Fecha límite para aplicar al programa: Programa continuo a lo largo del año
 
-Postulación: Llenar el [formulario de postulación](https://forms.gle/z3XJZ2qnZfAwGcSi7)
+Postulación: Llenar el [formulario de postulación](https://forms.gle/xAnPmNwrNq4wbYA58)
 
 **Estudiantes aplicando a posgrados:**
 
