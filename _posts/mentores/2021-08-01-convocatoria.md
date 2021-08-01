@@ -45,15 +45,19 @@ El único requisito para ser mentor/a es estar en los últimos años del doctora
 ## Fechas y proceso de postulación
 
 **Mentores:**
-Postulación: Llenar el [formulario de postulación](https://forms.gle/fyrLTw6mLj1ECVVR9)
 Fecha límite: Agosto 15 de 2021
+
+Postulación: Llenar el [formulario de postulación](https://forms.gle/fyrLTw6mLj1ECVVR9)
+
 
 **Estudiantes planeando sus carreras:**
 Fecha límite para aplicar al programa: Programa continuo a lo largo del año
+
 Postulación: Llenar el [formulario de postulación](https://forms.gle/6kjt2582xMZufJBS7)
 
 **Estudiantes aplicando a posgrados:**
 Fecha límite para aplicar al programa: 15 de Agosto de 2021
+
 Postulación: Llenar el [formulario de postulación](https://forms.gle/R386aC1V7VaRqcTr8)
 
 Cualquier duda por favor mandar un correo a: reca.astronomia@gmail.com 
