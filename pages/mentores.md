@@ -75,7 +75,7 @@ El comité del programa 2021-2022 está conformado por:
   </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}person.png" alt="">
+        <img src="{{ site.urlimg }}/mentores/lc.jpeg" alt="">
         <p>Dra. Luisa Cardona, INAOE, Puebla, Mexico </p>
     </div><!-- /.medium-4.columns -->
 
@@ -91,7 +91,7 @@ El comité del programa 2021-2022 está conformado por:
 
 
 <div class="medium-4 columns">
-    <img src="{{ site.urlimg }}person.png" alt="">
+    <img src="{{ site.urlimg }}/mentores/DFA.jpg" alt="">
     <p>Dr. David Fernandez, INAOE, Puebla, Mexico</p>
 </div><!-- /.medium-4.columns -->
 
