@@ -127,7 +127,7 @@ El comité del programa 2021-2022 está conformado por:
       </div><!-- /.medium-4.columns -->
 
       <div class="medium-4 columns">
-          <img src="{{ site.urlimg }}sd.png" alt="">
+          <img src="{{ site.urlimg }}/mentores/sd.png" alt="">
           <p>PhD(c) Saida Diaz, PhD student, Albert Ludwig University of Freiburg</p>
       </div><!-- /.medium-4.columns -->
   </div><!-- /.row -->
