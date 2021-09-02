@@ -85,7 +85,7 @@ El comité del programa 2021-2022 está conformado por:
 <div class="row t25">
 
     <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}person.png" alt="">
+        <img src="{{ site.urlimg }}/mentores/mv.png" alt="">
         <p> Mariana Villamil, estudiante de maestría en astronomía, Universidad de Ginebra, Suiza </p>
     </div><!-- /.medium-4.columns -->
 
