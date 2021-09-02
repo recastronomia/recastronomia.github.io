@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Comite organizador"
+title: "Resultados y estadisticas del programa"
 breadcrumb: true
 categories:
     - mentores

@@ -75,8 +75,8 @@ El comité del programa 2021-2022 está conformado por:
   </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}person.png" alt="">
-        <p>Dra. Luisa Cardona, INAOE, Puebla, Mexico </p>
+        <img src="{{ site.urlimg }}/mentores/lc.jpeg" alt="">
+        <p>Ph.D.(c) Luisa Cardona, INAOE, Puebla, Mexico </p>
     </div><!-- /.medium-4.columns -->
 
 
@@ -85,13 +85,13 @@ El comité del programa 2021-2022 está conformado por:
 <div class="row t25">
 
     <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}person.png" alt="">
-        <p> Mariana Villamil, estudiante de física y geociencias, Universidad de los Andes </p>
+        <img src="{{ site.urlimg }}/mentores/mv.png" alt="">
+        <p> Mariana Villamil, estudiante de maestría en astronomía, Universidad de Ginebra, Suiza </p>
     </div><!-- /.medium-4.columns -->
 
 
 <div class="medium-4 columns">
-    <img src="{{ site.urlimg }}person.png" alt="">
+    <img src="{{ site.urlimg }}/mentores/DFA.jpg" alt="">
     <p>Dr. David Fernandez, INAOE, Puebla, Mexico</p>
 </div><!-- /.medium-4.columns -->
 
@@ -105,7 +105,7 @@ El comité del programa 2021-2022 está conformado por:
 
 <div class="medium-4 columns">
     <img src="{{ site.urlimg }}ngc.jpg" alt="">
-    <p><a href="https://jngaravitoc.github.io/Garavito-Camargo/">Coordinador del programa: Nicolas Garavito Camargo, Ph.D. Candidate, U. Arizona</a></p>
+    <p><a href="https://jngaravitoc.github.io/Garavito-Camargo/"> Dr. Nicolas Garavito Camargo, Flatiron Institue, NYC, USA</a></p>
 </div><!-- /.medium-4.columns -->
 
 
@@ -127,7 +127,7 @@ El comité del programa 2021-2022 está conformado por:
       </div><!-- /.medium-4.columns -->
 
       <div class="medium-4 columns">
-          <img src="{{ site.urlimg }}sd.png" alt="">
+          <img src="{{ site.urlimg }}/mentores/sd.png" alt="">
           <p>PhD(c) Saida Diaz, PhD student, Albert Ludwig University of Freiburg</p>
       </div><!-- /.medium-4.columns -->
   </div><!-- /.row -->
