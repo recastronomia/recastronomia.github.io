@@ -4,24 +4,7 @@
 # inserted automatically in the webpage. To make
 # this work, you have to use › layout: frontpage
 #
-layout: frontpage
-header:
-  image_fullwidth: header.png
-widget1:
-  title: "¿Quienes somos?"
-  url: '/info/nosotros'
-  image: nosotros.jpg
-  text: 'RECA es una asociación que busca crear y mantener vínculos fuertes entre los estudiantes de astronomía de Colombia.'
-widget2:
-  title: "¿Quien eres tú?"
-  url: '/censo'
-  image: censo_virtual.jpg
-  text: 'Ayudanos a conocer, re-conocer y ubicar a los estudiantes de RECA. Si eres colombiano y estas proyectandote profesionalmente en astronomía por favor llena nuestro censo electronico.'
-widget3:
-  title: "¡Únete a nuestra comunidad en Slack!"
-  url: 'https://join.slack.com/t/recastronomia/shared_invite/zt-etcnmski-Owytv7Ov8WEEWP4~pUGqzw'
-  image: slack.jpg
-  text: 'Conéctate con todos los estudiantes colombianos de astronomía del país y del exterior. Encontrarás diferentes canales para consejos, noticias, eventos y más.'
+layout: redirect
 
 #
 # Use the call for action to show a button on the frontpage
